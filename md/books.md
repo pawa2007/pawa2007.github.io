@@ -22,10 +22,10 @@
   mistake would lead at once to heavy consequences, I began to appreciate the difference between acting on the 
   principle of command and discipline and acting on the principle of common understanding. The former works 
   admirably in a military parade, but it is worth nothing where real life is concerned, and the aim can be 
-  achieved only through the severe effort of many converging wills.](https://archive.org/details/memoirsofrevolut01kropuoft/page/250/mode/2up?q=Having+been+brought+up+in+a+serf+owner%E2%80%99s+family)
+  achieved only through the severe effort of many converging wills.](https://archive.org/details/memoirsofrevolut01kropuoft/page/250/mode/1up?q=Having+been+brought+up+in+a+serf+owner%E2%80%99s+family)
 
-[Vol 1](https://archive.org/details/memoirsofrevolut01kropuoft/page/n5/mode/2up) 
-[Vol 2](https://archive.org/details/memoirsofrevolut02kropuoft/page/n8/mode/2up)
+[Vol 1](https://archive.org/details/memoirsofrevolut01kropuoft/page/n5/mode/1up) 
+[Vol 2](https://archive.org/details/memoirsofrevolut02kropuoft/page/n8/mode/1up)
 
 
 ## Financial Success / Wealth Management
@@ -37,6 +37,6 @@
 
 ### Napoleon Hill
 #### [Think and Grow Rich](https://archive.org/details/thinkgrowric00hill)
-#### [The 5 Essential Principles of Think and Grow Rich](https://archive.org/details/napoleon-hill-foundation-the-5-essential-principles-of-think-and-grow-rich-the-p/mode/2up)
+#### [The 5 Essential Principles of Think and Grow Rich](https://archive.org/details/napoleon-hill-foundation-the-5-essential-principles-of-think-and-grow-rich-the-p/mode/1up)
 
 #### [The Law of Success in Sixteen Lessons](https://archive.org/details/Law_Of_Success_in_16_Lessons)
