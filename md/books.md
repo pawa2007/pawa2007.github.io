@@ -33,3 +33,5 @@
 ### Andrew Carnegie
 #### [The Gospel of Wealth and other timely essays](https://archive.org/details/gospelofwealthot00carnuoft)
 #### [The Empire of Business](https://archive.org/details/empireofbusiness00carnuoft)
+#### [Wealth](https://archive.org/details/8906CarnegieWealth)
+
