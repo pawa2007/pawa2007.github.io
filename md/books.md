@@ -13,7 +13,7 @@
 
 ## Autobiographies / Memoirs / Biographies
 
-#### [Autobiography of Andrew Carnegie](https://archive.org/details/autobiographyofa00carn)
+#### [Autobiography of Andrew Carnegie](https://archive.org/details/autobiographyofa00carn/mode/1up)
 
 #### Memoirs of a Revolutionist _(Pyotr Alexeyvich Kropotkin)_
 > [Having been brought up in a serf-owner's family, I entered active life, like all young men of my time, 
@@ -31,12 +31,12 @@
 ## Financial Success / Wealth Management
 
 ### Andrew Carnegie
-#### [The Gospel of Wealth and other timely essays](https://archive.org/details/gospelofwealthot00carnuoft)
-#### [The Empire of Business](https://archive.org/details/empireofbusiness00carnuoft)
-#### [Wealth](https://archive.org/details/8906CarnegieWealth)
+#### [The Gospel of Wealth and other timely essays](https://archive.org/details/gospelofwealthot00carnuoft/mode/1up)
+#### [The Empire of Business](https://archive.org/details/empireofbusiness00carnuoft/mode/1up)
+#### [Wealth](https://archive.org/details/8906CarnegieWealth/mode/1up)
 
 ### Napoleon Hill
-#### [Think and Grow Rich](https://archive.org/details/thinkgrowric00hill)
+#### [Think and Grow Rich](https://archive.org/details/thinkgrowric00hill/mode/1up)
 #### [The 5 Essential Principles of Think and Grow Rich](https://archive.org/details/napoleon-hill-foundation-the-5-essential-principles-of-think-and-grow-rich-the-p/mode/1up)
 
-#### [The Law of Success in Sixteen Lessons](https://archive.org/details/Law_Of_Success_in_16_Lessons)
+#### [The Law of Success in Sixteen Lessons](https://archive.org/details/Law_Of_Success_in_16_Lessons/mode/1up)
