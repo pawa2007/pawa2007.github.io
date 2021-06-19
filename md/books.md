@@ -28,10 +28,15 @@
 [Vol 2](https://archive.org/details/memoirsofrevolut02kropuoft/page/n8/mode/2up)
 
 
-## Finance / Wealth Management
+## Financial Success / Wealth Management
 
 ### Andrew Carnegie
 #### [The Gospel of Wealth and other timely essays](https://archive.org/details/gospelofwealthot00carnuoft)
 #### [The Empire of Business](https://archive.org/details/empireofbusiness00carnuoft)
 #### [Wealth](https://archive.org/details/8906CarnegieWealth)
 
+### Napoleon Hill
+#### [Think and Grow Rich](https://archive.org/details/thinkgrowric00hill)
+#### [The 5 Essential Principles of Think and Grow Rich](https://archive.org/details/napoleon-hill-foundation-the-5-essential-principles-of-think-and-grow-rich-the-p/mode/2up)
+
+#### [The Law of Success in Sixteen Lessons](https://archive.org/details/Law_Of_Success_in_16_Lessons)
