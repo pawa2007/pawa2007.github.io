@@ -8,7 +8,9 @@
 
 [The Secrets of Consulting _(Gerald Weinberg)_](https://www.amazon.com/Secrets-Consulting-Giving-Getting-Successfully/dp/0932633013)
 
-[Memoirs of a Revolutionist _(Pyotr Alexeyvich Kropotkin)_](https://archive.org/details/memoirsofrevolut02kropuoft/page/n8/mode/2up)
+Memoirs of a Revolutionist _(Pyotr Alexeyvich Kropotkin)_
+[Vol 1](https://archive.org/details/memoirsofrevolut01kropuoft/page/n5/mode/2up)
+[Vol 2](https://archive.org/details/memoirsofrevolut02kropuoft/page/n8/mode/2up)
 > Having been brought up in a serf-owner's family, I entered active life, like all young men of my time, 
   with a great deal of confidence in the necessity of commanding, ordering, scolding, punishing and the like.
   But when, at an early stage, I had to manage serious enterprises and to deal with [free] men, and when each 
