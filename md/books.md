@@ -13,6 +13,7 @@
 * [A Whirlwind Tour of Python _(Jake VanderPlas)_](https://github.com/jakevdp/WhirlwindTourOfPython/blob/6f1daf714fe52a8dde6a288674ba46a7feed8816/Index.ipynb)
 * [Python Data Science Handbook _(Jake VanderPlas)_](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [A Little Book of Python for Multivariate Analysis _(Yiannis Gatsoulis)_](http://python-for-multivariate-analysis.readthedocs.io/index.html)
+* [Think Python _(Allen Downey)_](https://greenteapress.com/wp/think-python-2e)
 * [Think Series _(Green Tea Press - Allen Downey)_](http://greenteapress.com/wp/)
 * [Python Crash Course _(Eric Matthes)_](https://github.com/ehmatthes/pcc)
 * [Dive into Python 3 _(Mark Pilgrim)_](http://www.diveintopython3.net/)
@@ -31,6 +32,7 @@
 * [OnlineStatBook](http://onlinestatbook.com/2/index.html)
 * [Inferential Statistics](http://vassarstats.net/textbook/)
 * [Introduction to Probability _(Grinstead and Snell)_](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html)
+* [Think Stats _(Allen Downey)_](https://greenteapress.com/wp/think-stats-2e)
 
 
 ## Autobiographies / Memoirs / Biographies
