@@ -158,7 +158,7 @@ Notes along the JavaScript, ECMAScript, TypeScript journey
 	* [package.json _(npmjs Documentation)_](https://docs.npmjs.com/files/package.json)
 
 #### Books
-  * [JavaScript](books.md#JavaScript)
+  * [JavaScript](books.md#javascript)
 
 #### Videos
   * [Pete Hunt: The Past, Present and Future of React (01:26:16)](https://www.youtube.com/watch?v=xj_w35T6xCw)
