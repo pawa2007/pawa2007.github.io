@@ -1,5 +1,5 @@
 # Data Science
-Notes along the Data Science journey
+Notes along the Data Science, Python, R journey
 
 ## Books
 * [Python](books.md#Python)
