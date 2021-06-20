@@ -1,9 +1,9 @@
-[Odoo API Reference](html/odoo-api-reference)
+[Odoo](md/odoo.md)
 
-[Data Science (Python/R)](md/python)
+[Data Science (Python/R)](md/python.md)
 
-[JavaScript](md/javascript)
+[JavaScript](md/javascript.md)
 
-[ESR](md/ESR)
+[ESR](md/ESR.md)
 
-[Books](md/books)
+[Books](md/books.md)
