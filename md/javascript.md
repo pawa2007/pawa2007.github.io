@@ -1,7 +1,10 @@
-# JavaScript Notes
+# JavaScript
+Notes along the JavaScript, ECMAScript, TypeScript journey
 
-## Learn
-* Standards and Specifications
+
+## Learning Resources
+
+#### Standards and Specifications
   * Standards Bodies
     * [w3c Standards](https://www.w3.org/TR/)
     * [WHATWG Living Standards](https://whatwg.org/)
@@ -42,7 +45,8 @@
     * [w3c.github.io - Shadow DOM + Custom Elements + HTML Imports (Discontinued ?)](https://w3c.github.io/webcomponents/)
   * Web Sockets
     * [HTML Living Standard _(WHATWG)_](https://html.spec.whatwg.org/multipage/web-sockets.html)
-* Documentation and Reference Material
+
+#### Documentation and Reference Material
   * Development
 	  * [node Documentation](https://nodejs.org/en/docs/)
 	  * [npm Documentation](https://docs.npmjs.com/)
@@ -66,7 +70,8 @@
   * Documentation
     * [devdocs.io _(Collection of all API documentation)_](https://devdocs.io/)
     * [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
-* Key Concepts
+
+#### Key Concepts
   * [`this`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
   * [Strict mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode)
   * [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
@@ -151,17 +156,15 @@
   * node and npm
 	* [The Basics of Package.json in Node.js and npm](https://nodesource.com/blog/the-basics-of-package-json-in-node-js-and-npm/)
 	* [package.json _(npmjs Documentation)_](https://docs.npmjs.com/files/package.json)
-* Online Books
-  * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
-  * [Understanding ECMAScript 6 _(by Nicholas Zakas)_](https://leanpub.com/understandinges6/read)
-  * [Learning JavaScript Design Patterns _(Addy Osmani)_](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-  * [Speaking JavaScript _(Dr. Axel Rauschmayer)_](http://speakingjs.com/es5/index.html)
-  * [Exploring ES6 _(Dr. Axel Rauschmayer)_](http://exploringjs.com/es6/index.html)
-  * [You Don't Know JS _(Kyle Simpson)_](https://github.com/getify/You-Dont-Know-JS)
-* Videos
+
+#### Books
+  * [JavaScript](books.md#JavaScript)
+
+#### Videos
   * [Pete Hunt: The Past, Present and Future of React (01:26:16)](https://www.youtube.com/watch?v=xj_w35T6xCw)
   * [Nicholas Zakas: Writing Maintainable JavaScript (00:47:01)](https://www.youtube.com/watch?v=c-kav7Tf834)
-* Personal Blogs / Twitter Feeds
+
+#### Personal Blogs / Twitter Feeds
   * [Brendan Eich _(JavaScript)_](https://brendaneich.com/)
   * [John Resig _(JQuery)_](https://johnresig.com/)
   * [Ryan Dahl _(NodeJS)_](http://tinyclouds.org/)
