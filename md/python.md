@@ -2,9 +2,9 @@
 Notes along the Data Science, Python, R journey
 
 ## Books
-* [Python](books.md#Python)
-* [R](books.md#R)
-* [Statistics](books.md#Statistics)
+* [Python](books.md#python)
+* [R](books.md#r)
+* [Statistics](books.md#statistics)
 
 ## Collateral for Books
 * [An Introduction to Statistics with Python _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
