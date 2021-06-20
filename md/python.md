@@ -1,25 +1,10 @@
-# data-science
+# Data Science
 Notes along the Data Science journey
 
 ## Books
-* :+1: [A Whirlwind Tour of Python _(Jake VanderPlas)_](https://github.com/jakevdp/WhirlwindTourOfPython/blob/6f1daf714fe52a8dde6a288674ba46a7feed8816/Index.ipynb)
-* :+1: [Python Data Science Handbook _(Jake VanderPlas)_](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [OpenIntro _(Open Books)_](https://www.openintro.org)
-* [An Introduction to Statistical Learning with Applications in R _(Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)_](http://www-bcf.usc.edu/~gareth/ISL/)
-* [The Elements of Statistical Learning _(Trevor Hastie, Robert Tibshirani and Jerome Friedman)_](https://web.stanford.edu/~hastie/ElemStatLearn/)
-* [R for Data Science _(Garrett Grolemund, Hadley Wickham)_](http://r4ds.had.co.nz/)
-* [Advanced R _(Hadley Wickham)_](https://adv-r.hadley.nz/)
-* [R Packages _(Hadley Wickham)_](http://r-pkgs.had.co.nz/)
-* [A Little Book of Python for Multivariate Analysis
- _(Yiannis Gatsoulis)_](http://python-for-multivariate-analysis.readthedocs.io/index.html)
-* [OnlineStatBook](http://onlinestatbook.com/2/index.html)
-* [Think Series _(Green Tea Press - Allen Downey)_](http://greenteapress.com/wp/)
-* [Inferential Statistics](http://vassarstats.net/textbook/)
-* [Python Crash Course _(Eric Matthes)_](https://github.com/ehmatthes/pcc)
-* [Dive into Python 3 _(Mark Pilgrim)_](http://www.diveintopython3.net/)
-* [Introduction to Probability _(Grinstead and Snell)_](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html)
-* [Python Standard Library - Python 2.x *(Fredrik Lundh)*](http://effbot.org/librarybook/)
-* [A Byte of Python (Swaroop C H)](https://python.swaroopch.com/)
+* [Python](books.md#Python)
+* [R](books.md#R)
+* [Statistics](books.md#Statistics)
 
 ## Collateral for Books
 * [An Introduction to Statistics with Python _(Thomas Haslwanter)_](https://github.com/thomas-haslwanter/statsintro_python)
@@ -29,10 +14,9 @@ Notes along the Data Science journey
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow *(Aurélien Géron)*](https://github.com/ageron/handson-ml)
 
 ## MOOCS
-* :+1: [Intro to Python for Data Science
- _(Datacamp - Filip Schouwenaars)_](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-* :+1: [Foundations of Data Analysis - Part 1 _(edX - UTAustinX - Dr. Michael Mahometa)_](https://courses.edx.org/courses/course-v1:UTAustinX+UT.7.11x+2T2017/course/)
-* :+1: [Statistical Learning _(Stanford - Trevor Hastie, Robert Tibshirani)_](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
+* [Intro to Python for Data Science _(Datacamp - Filip Schouwenaars)_](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+* [Foundations of Data Analysis - Part 1 _(edX - UTAustinX - Dr. Michael Mahometa)_](https://courses.edx.org/courses/course-v1:UTAustinX+UT.7.11x+2T2017/course/)
+* [Statistical Learning _(Stanford - Trevor Hastie, Robert Tibshirani)_](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 * [Statistics and Probability _(Khan Academy)_](https://www.khanacademy.org/math/statistics-probability)
 * [Statistics and Probability Courses _(cK12)_](https://www.ck12.org/browse/)
 * [Machine Learning _(Coursera - Stanford - Andrew Ng)_](https://www.coursera.org/learn/machine-learning/home/info)
@@ -48,8 +32,8 @@ Notes along the Data Science journey
 * [An Introduction to Interactive Programming in Python (Part 1) *(Coursera - Rice University)*](https://www.coursera.org/learn/interactive-python-1)
 
 ## Competitions
-* :+1: [Kaggle](https://www.kaggle.com/)
-* :+1: [Driven Data](https://www.drivendata.org/competitions/)
+* [Kaggle](https://www.kaggle.com/)
+* [Driven Data](https://www.drivendata.org/competitions/)
 * [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/)
 * [TunedIT](http://tunedit.org/challenges)
 * [Crowd Analytix](https://crowdanalytix.com/community)
@@ -121,15 +105,15 @@ Notes along the Data Science journey
 * [ImageNet](http://www.image-net.org/)
 
 ## Documentation
-* :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
-* :+1:[Markdown Reference](http://commonmark.org/help/)
+* [Markdown Tutorial](http://commonmark.org/help/tutorial/)
+* [Markdown Reference](http://commonmark.org/help/)
 * [NumPy/SciPy Docstring Standard](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)
 
 ## Tutorials
-* :+1:[Markdown Tutorial](http://commonmark.org/help/tutorial/)
+* [Markdown Tutorial](http://commonmark.org/help/tutorial/)
 * **Python**
-   - :+1:[The Python Tutorial *(python.org)*](https://docs.python.org/3/tutorial/index.html)
-   - :+1:[Python 3 Tutorial](https://www.python-course.eu/python3_course.php)
+   - [The Python Tutorial *(python.org)*](https://docs.python.org/3/tutorial/index.html)
+   - [Python 3 Tutorial](https://www.python-course.eu/python3_course.php)
    - [Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/)
    - [Matplotlib Tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/matplotlib.html)
    - [Anatomy of Matplotlib](https://github.com/matplotlib/AnatomyOfMatplotlib)
@@ -147,7 +131,7 @@ Notes along the Data Science journey
 * [WriteTheDocs](http://www.writethedocs.org)
 
 ## Cheatsheets
-* :+1:[Markdown Reference](http://commonmark.org/help/)
+* [Markdown Reference](http://commonmark.org/help/)
 * [reStructuredText (rst) Cheatsheet](http://docutils.sourceforge.net/docs/user/rst/cheatsheet.txt)
 * [Git Cheatsheet _(GitHub)_](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [Git Tutorials _(Atlassian)_](https://www.atlassian.com/git/tutorials)
