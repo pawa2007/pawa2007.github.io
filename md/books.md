@@ -8,6 +8,7 @@
 
 
 ## Programming
+
 #### Python
 * [A Whirlwind Tour of Python _(Jake VanderPlas)_](https://github.com/jakevdp/WhirlwindTourOfPython/blob/6f1daf714fe52a8dde6a288674ba46a7feed8816/Index.ipynb)
 * [Python Data Science Handbook _(Jake VanderPlas)_](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -17,6 +18,7 @@
 * [Dive into Python 3 _(Mark Pilgrim)_](http://www.diveintopython3.net/)
 * [Python Standard Library - Python 2.x *(Fredrik Lundh)*](http://effbot.org/librarybook/)
 * [A Byte of Python (Swaroop C H)](https://python.swaroopch.com/)
+
 #### R
 * [An Introduction to Statistical Learning with Applications in R _(Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)_](http://www-bcf.usc.edu/~gareth/ISL/)
 * [R for Data Science _(Garrett Grolemund, Hadley Wickham)_](http://r4ds.had.co.nz/)
