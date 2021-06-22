@@ -10,7 +10,7 @@ Notes along the Odoo journey
 * [OWL Framework](https://odoo.github.io/owl/)
 
 ## Tutorials
-* [Customization/Development Tutorial](https://www.odoo.com/documentation/14.0/developer/howtos/rdtraining.html)
+* [Customization/Development Tutorial](https://www.odoo.com/documentation/14.0/developer/howtos.html)
 
 ## Videos
 
