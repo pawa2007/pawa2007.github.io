@@ -8,6 +8,7 @@ Notes along the Odoo journey
 * [Product Documentation](https://www.odoo.com/documentation)
 * [Web Services External API](https://www.odoo.com/documentation/14.0/developer/webservices/odoo.html)
 * [OWL Framework](https://odoo.github.io/owl/)
+* [XPath](https://developer.mozilla.org/en-US/docs/Web/XPath)
 
 ## Tutorials
 * [Customization/Development Tutorial](https://www.odoo.com/documentation/14.0/developer/howtos/rdtraining.html)
@@ -20,3 +21,4 @@ Notes along the Odoo journey
 
 ## Online Playground
 * [OWL](https://odoo.github.io/owl/playground/)
+* [XPath](https://extendsclass.com/xpath-tester.html)
