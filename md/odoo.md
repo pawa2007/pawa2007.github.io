@@ -1,6 +1,9 @@
 # Odoo
 Notes along the Odoo journey
 
+## Contributions
+* [My code contributions](https://github.com/odoo/odoo/pulls?q=is%3Apr+is%3Aclosed+author%3Apawa2007)
+
 ## eLearning
 * [eLearning Courses](https://www.odoo.com/slides/all)
 
