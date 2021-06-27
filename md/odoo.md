@@ -27,8 +27,11 @@ Notes along the Odoo journey
 * [Reddit](https://www.reddit.com/r/Odoo)
 
 ## Codebase
-* [Community Edition](https://github.com/odoo/odoo)
-* [Enterprise Edition _(requires Odoo Enterprise license)_](https://github.com/odoo/enterprise)
+* Community Edition
+  * [GitHub repository](https://github.com/odoo/odoo)
+  * [Nightly builds](http://nightly.odoo.com)
+* Enterprise Edition
+  * [GitHub repository _(requires Odoo Enterprise license)_](https://github.com/odoo/enterprise)
 * [OWL Framework](https://github.com/odoo/owl)
 
 ## Online Playground
