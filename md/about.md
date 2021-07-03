@@ -8,13 +8,13 @@
 * [Active contributor to the Odoo Community listed in the Top 20 on the forum leaderboard](https://www.odoo.com/profile/users)
 
 #### ODOO FUNCTIONAL EXPERTISE
-* CRM * Sales * Rental * Point of Sale * Invoicing * Inventory * Purchasing
-* Manufacturing * Projects * Timesheet * Expenses * Employees * Attendance
-* Website * Surveys * eCommerce * Payroll * Accounting * Email Marketing
-* Data Cleaning * Dashboards * Documents
+\* CRM * Sales * Rental * Point of Sale * Invoicing * Inventory * Purchasing
+\* Manufacturing * Projects * Timesheet * Expenses * Employees * Attendance
+\* Website * Surveys * eCommerce * Payroll * Accounting * Email Marketing
+\* Data Cleaning * Dashboards * Documents
 
 #### ODOO TECHNICAL EXPERTISE
-* Server Setup (Cloud / On-Premise / Odoo.sh) * Software Installation
-* Configuration * Customization * Odoo Studio
-* Custom Module Development (XML, Python, JavaScript, HTML, CSS, SCSS)
-* Deployment * Training * Production Support and Maintenance
+\* Server Setup (Cloud / On-Premise / Odoo.sh) * Software Installation
+\* Configuration * Customization * Odoo Studio
+\* Custom Module Development (XML, Python, JavaScript, HTML, CSS, SCSS)
+\* Deployment * Training * Production Support and Maintenance
