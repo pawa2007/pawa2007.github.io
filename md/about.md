@@ -13,13 +13,19 @@ Odoo Configuration | Customization | Development | Training | Support
 
 
 #### ODOO FUNCTIONAL EXPERTISE
->\* CRM * Sales * Rental * Point of Sale 
->\* Invoicing * Inventory * Purchasing
->\* Manufacturing * Projects * Timesheet 
->\* Expenses * Employees * Attendance
->\* Website * Surveys * eCommerce 
->\* Payroll * Accounting * Email Marketing
->\* Data Cleaning * Dashboards * Documents
+\* CRM * Sales * Rental * Point of Sale 
+
+\* Invoicing * Inventory * Purchasing
+
+\* Manufacturing * Projects * Timesheet 
+
+\* Expenses * Employees * Attendance
+
+\* Website * Surveys * eCommerce 
+
+\* Payroll * Accounting * Email Marketing
+
+\* Data Cleaning * Dashboards * Documents
 
 
 #### ODOO TECHNICAL EXPERTISE
