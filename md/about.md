@@ -1,4 +1,5 @@
 ## PARESH WAGH
+###### <pawa2007@outlook.com>
 Odoo Configuration | Customization | Development | Training | Support
 
 
