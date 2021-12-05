@@ -4,7 +4,7 @@ Odoo Configuration | Customization | Development | Training | Support
 
 #### PROFILE
 * Odoo Certified
-* [100% Job Success (5 stars on all projects) and Top Rated Plus rating on Upwork _(requires log in)_](https://www.upwork.com/freelancers/~012317d22ee7e46a87)
+* [100% Job Success (5 stars on all projects) and Top Rated Plus rating on Upwork _(requires Upwork account)_](https://www.upwork.com/freelancers/~012317d22ee7e46a87)
 * [Active contributor to the Odoo Community listed in the Top 10 on the forum leaderboard](https://www.odoo.com/profile/users)
 * Hands-on expertise in business analysis, architecture, design, development, and training
 * Over 20 years’ experience in software development and ERP systems
