@@ -12,6 +12,7 @@ Notes along the Odoo journey
 * [Web Services External API](https://www.odoo.com/documentation/14.0/developer/webservices/odoo.html)
 * [OWL Framework](https://odoo.github.io/owl/)
 * [XPath](https://developer.mozilla.org/en-US/docs/Web/XPath)
+* [GitHub Advanced Search Reference](https://docs.github.com/en/search-github/searching-on-github)
 
 ## Tutorials, Tips and Tricks, etc.
 * [Customization/Development Tutorial](https://www.odoo.com/documentation/14.0/developer/howtos/rdtraining.html)
