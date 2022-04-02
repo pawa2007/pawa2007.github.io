@@ -13,6 +13,7 @@ Notes along the Odoo journey
 * [OWL Framework](https://odoo.github.io/owl/)
 * [XPath](https://developer.mozilla.org/en-US/docs/Web/XPath)
 * [GitHub Advanced Search Reference](https://docs.github.com/en/search-github/searching-on-github)
+* [Intro to ZPL](http://labelary.com/zpl.html)
 
 ## Tutorials, Tips and Tricks, etc.
 * [Customization/Development Tutorial](https://www.odoo.com/documentation/14.0/developer/howtos/rdtraining.html)
@@ -38,3 +39,4 @@ Notes along the Odoo journey
 ## Online Playground
 * [OWL](https://odoo.github.io/owl/playground/)
 * [XPath](https://extendsclass.com/xpath-tester.html)
+* [ZPL Viewer](http://labelary.com/viewer.html)
