@@ -45,3 +45,4 @@ Notes along the Odoo journey
 ## Release Management
 * [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 * [Odoo.sh Branches](https://www.odoo.com/documentation/master/administration/odoo_sh/getting_started/branches.html)
+* [Git Cheatsheets _(GitHub)_](https://training.github.com)
