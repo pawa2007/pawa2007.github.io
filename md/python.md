@@ -173,6 +173,7 @@ Notes along the Data Science, Python, R journey
 * [A Concrete Introduction to Probability (using Python) _(Peter Norvig)_](http://nbviewer.jupyter.org/urls/norvig.com/ipython/Probability.ipynb)
 * [TOC of "Modern Python: Big Ideas and Little Code in Python" Live Lesson *(Raymond Hettinger)*](https://www.amazon.com/Modern-Python-Ideas-Little-LiveLessons/dp/B0782H9R1B)
 * [Python Recipes](https://github.com/ActiveState/code)
+* [Gitflow _(Vincent Driessen)_](https://nvie.com/posts/a-successful-git-branching-model)
 
 ## Videos
 * [Python Related Videos *(pyvideo.org)*](http://pyvideo.org/)
