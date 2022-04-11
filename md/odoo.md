@@ -41,3 +41,7 @@ Notes along the Odoo journey
 * [OWL](https://odoo.github.io/owl/playground/)
 * [XPath](https://extendsclass.com/xpath-tester.html)
 * [ZPL Viewer](http://labelary.com/viewer.html)
+
+## Release Management
+* [GitHub Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
+* [Odoo.sh Branches](https://www.odoo.com/documentation/master/administration/odoo_sh/getting_started/branches.html)
