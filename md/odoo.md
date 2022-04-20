@@ -13,6 +13,7 @@ Notes along the Odoo journey
 * [OWL Framework](https://odoo.github.io/owl/)
 * [XPath](https://developer.mozilla.org/en-US/docs/Web/XPath)
 * [GitHub Advanced Search Reference](https://docs.github.com/en/search-github/searching-on-github)
+* [Font Awesome _(4.7)_](https://fontawesome.com/v4/examples)
 * [Intro to ZPL](http://labelary.com/zpl.html)
 * [ZPL II Programming Guide _(Zebra Technologies)_](https://support.zebra.com/cpws/docs/zpl/13979l-010_ra.pdf)
 
