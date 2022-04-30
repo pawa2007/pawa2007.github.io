@@ -10,7 +10,7 @@ Odoo Configuration | Customization | Development | Training | Support
 * Hands-on expertise in business analysis, architecture, design, development, and training
 * Over 20 years’ experience in software development and ERP systems
 * Worked for organizations ranging in size from startups to Fortune 100 companies
-* Delivered solutions to clients in India, USA, UK, Canada, Belgium, France, Brazil, Egypt, and Myanmar
+* Delivered solutions to clients in India, USA, UK, Canada, Belgium, Switzerland, Netherlands, Romania, Egypt, France, Brazil and Myanmar
 * Industry experience spans Financial Services, Manufacturing, Food Processing, Pharmaceuticals, Higher Education, Healthcare, Entertainment and Retail
 
 
@@ -23,6 +23,7 @@ Odoo Configuration | Customization | Development | Training | Support
   \* Payroll * Accounting * Email Marketing
   \* Data Cleaning * Dashboards * Documents
   \* Recruiting * Planning * Sign
+  \* Spreadsheets * Recruiting * Planning
 
 
 #### ODOO TECHNICAL EXPERTISE
