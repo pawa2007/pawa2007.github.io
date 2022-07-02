@@ -16,6 +16,7 @@ Notes along the Odoo journey
 * Font Awesome _(4.7)_
   * [Icons](https://fontawesome.com/v4/icons)
   * [Examples](https://fontawesome.com/v4/examples)
+* [Odoo Icon Generator](https://codepen.io/fheodoo/pen/XWNawZd)
 * [Intro to ZPL](http://labelary.com/zpl.html)
 * [ZPL II Programming Guide _(Zebra Technologies)_](https://support.zebra.com/cpws/docs/zpl/13979l-010_ra.pdf)
 
