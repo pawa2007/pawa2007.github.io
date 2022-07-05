@@ -13,6 +13,7 @@ Notes along the Odoo journey
 * [OWL Framework](https://odoo.github.io/owl/)
 * [XPath](https://developer.mozilla.org/en-US/docs/Web/XPath)
 * [GitHub Advanced Search Reference](https://docs.github.com/en/search-github/searching-on-github)
+* [Bootstrap _(4.3.1)_](https://getbootstrap.com/docs/4.3/getting-started/introduction)
 * Font Awesome _(4.7)_
   * [Icons](https://fontawesome.com/v4/icons)
   * [Examples](https://fontawesome.com/v4/examples)
