@@ -22,6 +22,7 @@ Notes along the Odoo journey
   * [Icon Builder for Odoo](https://spilymp.github.io/ibo/)
 * Color Wheel Reference
   * [Canva](https://www.canva.com/colors/color-wheel/)
+  * [Adobe](https://color.adobe.com/create/color-wheel)
   * [designs.ai](https://designs.ai/colors/color-wheel)
 * [Intro to ZPL](http://labelary.com/zpl.html)
 * [ZPL II Programming Guide _(Zebra Technologies)_](https://support.zebra.com/cpws/docs/zpl/13979l-010_ra.pdf)
