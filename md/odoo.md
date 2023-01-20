@@ -3,6 +3,8 @@ Notes along the Odoo journey
 
 ## Contributions
 * [My code contributions](https://github.com/odoo/odoo/pulls?q=is%3Apr+is%3Aclosed+author%3Apawa2007)
+* My Odoo Cheat Sheets
+  * [Odoo Cheat Sheet - Widgets - field _(under development)_](https://airtable.com/shrFx2eJg09BpzEih/tbl9XHwWMMNFmd4fH?backgroundColor=purple&layout=card&viewControls=on)
 
 ## eLearning
 * [eLearning Courses](https://www.odoo.com/slides/all)
