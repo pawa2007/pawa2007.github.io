@@ -33,6 +33,7 @@ Notes along the Odoo journey
 * [Odoo Tutorials _(Yenthe Van Ginneken)_](https://www.odoo.yenthevg.com)
 
 ## Videos
+* [My YouTube Channel - All Things Odoo](https://www.youtube.com/@allthingsodoo)
 
 ## Help and Support
 * [Community Forum](https://www.odoo.com/forum/help-1)
