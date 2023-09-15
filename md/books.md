@@ -17,8 +17,9 @@
   * [Think Series _(Green Tea Press - Allen Downey)_](http://greenteapress.com/wp/)
   * [Python Crash Course _(Eric Matthes)_](https://github.com/ehmatthes/pcc)
   * [Dive into Python 3 _(Mark Pilgrim)_](http://www.diveintopython3.net/)
-  * [Python Standard Library - Python 2.x *(Fredrik Lundh)*](http://effbot.org/librarybook/)
-  * [A Byte of Python (Swaroop C H)](https://python.swaroopch.com/)
+  * [Python Standard Library - Python 2.x _(Fredrik Lundh)_](http://effbot.org/librarybook/)
+  * [A Byte of Python _(Swaroop C H)_](https://python.swaroopch.com/)
+  * [Automate the boring stuff with Python _(Al Sweigart)_](https://automatetheboringstuff.com/)
 
 #### R
   * [An Introduction to Statistical Learning with Applications in R _(Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)_](http://www-bcf.usc.edu/~gareth/ISL/)
