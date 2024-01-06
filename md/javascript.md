@@ -20,13 +20,6 @@ Notes along the JavaScript, ECMAScript, TypeScript journey
   * JavaScript / ECMAScript
     * [ECMAScript 5.1 Language Specification (June 2011)](https://www.ecma-international.org/ecma-262/5.1/)
     * [ECMAScript 5.1 and ECMAScript 6](http://bguiz.github.io/js-standards)
-  * JavaScript Style Guides
-    * [AirBnB](https://github.com/airbnb/javascript)
-    * [Idiomatic](https://github.com/rwaldron/idiomatic.js/)
-    * [Google](https://google.github.io/styleguide/jsguide.html)
-    * [Standard JS](https://github.com/standard/standard)
-    * [jQuery](https://contribute.jquery.org/style-guide/js/)
-    * [w3schools](https://www.w3schools.com/js/js_conventions.asp)
   * JavaScript Web API
 	* [Web API Standards _(w3c)_](https://www.w3.org/TR/?tag=webapi&status=rec)
   * JSON (JavaScript Object Notation)
@@ -276,8 +269,6 @@ Notes along the JavaScript, ECMAScript, TypeScript journey
   * [Jenkins]()
 
 ## Coding and Design Standards
-* [JavaScript Standard Style (node module: standard)](https://www.npmjs.com/package/standard)
-* [JavaScript Standard Style Rules (with references to ESLint)](https://github.com/standard/standard/blob/b6919b47573ec6940eb8eee36d8d16969ff46103/RULES.md)
 * [ElectronJS Coding Style](https://electronjs.org/docs/development/coding-style)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [jQuery JavaScript Style Guide](https://contribute.jquery.org/style-guide/js/)
@@ -289,11 +280,15 @@ Notes along the JavaScript, ECMAScript, TypeScript journey
 * [Android Design Guide](https://developer.android.com/design/)
 * [Mozilla Style Guide](https://www.mozilla.org/en-US/styleguide/)
 * [Microsoft Design](https://www.microsoft.com/design/)
+* [Standard JS](https://github.com/standard/standard)
+* [JavaScript Standard Style Rules (with references to ESLint)](https://github.com/standard/standard/blob/b6919b47573ec6940eb8eee36d8d16969ff46103/RULES.md)
 * [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 * Design Patterns
   * [BEM (Block-Element-Modifier) Pattern - used in CSS](http://getbem.com/)
   * [BEM](hAirttps://en.bem.info/)
 * [Mr.doob's Code Style](https://github.com/mrdoob/three.js/wiki/Mr.doob%27s-Code-Style%E2%84%A2)
+* [Idiomatic JavaScript Style Guide](https://github.com/rwaldron/idiomatic.js/)
+* [w3schools JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp)
 
 ## Icons, Graphics and Themes
 * [Font Awesome](https://fontawesome.com/)
