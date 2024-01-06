@@ -20,6 +20,13 @@ Notes along the JavaScript, ECMAScript, TypeScript journey
   * JavaScript / ECMAScript
     * [ECMAScript 5.1 Language Specification (June 2011)](https://www.ecma-international.org/ecma-262/5.1/)
     * [ECMAScript 5.1 and ECMAScript 6](http://bguiz.github.io/js-standards)
+  * JavaScript Style Guides
+    * [AirBnB](https://github.com/airbnb/javascript)
+    * [Idiomatic](https://github.com/rwaldron/idiomatic.js/)
+    * [Google](https://google.github.io/styleguide/jsguide.html)
+    * [Standard JS](https://github.com/standard/standard)
+    * [jQuery](https://contribute.jquery.org/style-guide/js/)
+    * [w3schools](https://www.w3schools.com/js/js_conventions.asp)
   * JavaScript Web API
 	* [Web API Standards _(w3c)_](https://www.w3.org/TR/?tag=webapi&status=rec)
   * JSON (JavaScript Object Notation)
