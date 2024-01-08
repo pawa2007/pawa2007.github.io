@@ -31,7 +31,8 @@
   * [Eloquent JavaScript _(by Marijn Haverbeke)_](http://eloquentjavascript.net/)
   * [Understanding ECMAScript 6 _(by Nicholas Zakas)_](https://leanpub.com/understandinges6/read)
   * [Learning JavaScript Design Patterns _(Addy Osmani)_](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-  * [Speaking JavaScript _(Dr. Axel Rauschmayer)_](http://speakingjs.com/es5/index.html)
+  * [Exploring JavaScript Book Series _(Dr. Axel Rauschmayer)_](https://exploringjs.com/index.html)
+  * [Speaking JavaScript (ES1-ES5) _(Dr. Axel Rauschmayer)_](https://exploringjs.com/es5/index.html)
   * [Exploring ES6 _(Dr. Axel Rauschmayer)_](http://exploringjs.com/es6/index.html)
   * [You Don't Know JS _(Kyle Simpson)_](https://github.com/getify/You-Dont-Know-JS)
 
