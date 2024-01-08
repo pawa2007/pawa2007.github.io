@@ -178,6 +178,7 @@ Notes along the JavaScript, ECMAScript, TypeScript journey
   * [Jake Archibald](https://jakearchibald.com/)
   * [Christopher Alexander _(Pattern Language)_](http://www.patternlanguage.com/)
   * [Kyle Simpson](https://github.com/getify)
+  * [ES6 in depth article series _(Jason Orendorff)_](https://hacks.mozilla.org/category/es6-in-depth/)
 
 ## Online Playgrounds
 * HTML, CSS, JavaScript only
