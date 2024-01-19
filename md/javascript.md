@@ -290,6 +290,7 @@ Notes along the JavaScript, ECMAScript, TypeScript journey
 * [Mr.doob's Code Style](https://github.com/mrdoob/three.js/wiki/Mr.doob%27s-Code-Style%E2%84%A2)
 * [Idiomatic JavaScript Style Guide](https://github.com/rwaldron/idiomatic.js/)
 * [w3schools JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp)
+* [JavaScript Naming Conventions _(Robin Wieruch)_](https://www.robinwieruch.de/javascript-naming-conventions/)
 
 ## Icons, Graphics and Themes
 * [Font Awesome](https://fontawesome.com/)
