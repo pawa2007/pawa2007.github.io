@@ -20,6 +20,7 @@
   * [Python Standard Library - Python 2.x _(Fredrik Lundh)_](http://effbot.org/librarybook/)
   * [A Byte of Python _(Swaroop C H)_](https://python.swaroopch.com/)
   * [Automate the boring stuff with Python _(Al Sweigart)_](https://automatetheboringstuff.com/)
+  * [Python for Data Analysis _(Wes McKinney)_](https://wesmckinney.com/book/)
 
 #### R
   * [An Introduction to Statistical Learning with Applications in R _(Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani)_](http://www-bcf.usc.edu/~gareth/ISL/)
