@@ -14,7 +14,8 @@ Notes along the AI journey
 * [Best practices for prompt engineering with the OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
 
 ## Cheatsheets
-* [The Perfect Prompt: A Prompt Engineering Cheat Sheet _(Maximilian Vogel)_](https://www.linkedin.com/pulse/perfect-prompt-engineering-cheat-sheet-snippets-part-vogel-ukysf)
+* [The Perfect Prompt: A Prompt Engineering Cheat Sheet - Part 1 _(Maximilian Vogel)_](https://www.linkedin.com/pulse/perfect-prompt-engineering-cheat-sheet-snippets-part-vogel-mxkcf/)
+* [The Perfect Prompt: A Prompt Engineering Cheat Sheet - Part 2 _(Maximilian Vogel)_](https://www.linkedin.com/pulse/perfect-prompt-engineering-cheat-sheet-snippets-part-vogel-ukysf)
 
 ## Prompt Engineering Patterns
 * [Awesome Prompting](https://github.com/corralm/awesome-prompting)
