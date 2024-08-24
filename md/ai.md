@@ -39,6 +39,7 @@ Notes along the AI journey
 * [Awesome Prompt Engineering _(Natasha Newbold)_](https://natnew.github.io/Awesome-Prompt-Engineering/)
 
 ## Compilations
+* [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
 * [Awesome GPT Prompt Engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
 * [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 * [Awesome Prompts](https://github.com/ai-boost/awesome-prompts)
