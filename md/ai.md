@@ -19,6 +19,7 @@ Notes along the AI journey
 * [The Perfect Prompt: A Prompt Engineering Cheat Sheet - Part 2 _(Maximilian Vogel)_](https://www.linkedin.com/pulse/perfect-prompt-engineering-cheat-sheet-snippets-part-vogel-ukysf)
 * [Midjourney Commands Cheatsheet _(aituts.com)_](https://aituts.com/midjourney-cheatsheet/)
 * [ChatGPT Prompt Book _(Dr. Alan D. Thompson)_](https://lifearchitect.ai/chatgpt-prompt-book/)
+* [How to Write the Best ChatGPT Prompts (Cheat Sheet for 2024)](https://www.superside.com/blog/chatgpt-prompts)
 
 ## Prompt Engineering Patterns
 * [Awesome Prompting](https://github.com/corralm/awesome-prompting)
