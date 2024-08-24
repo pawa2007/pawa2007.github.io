@@ -8,9 +8,13 @@ Notes along the AI journey
 * [GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
 * [Brex](https://github.com/brexhq/prompt-engineering)
 * [Cohere Docs](https://docs.cohere.com/docs/crafting-effective-prompts)
+* [Claude Prompt Engineering Guide](https://cheatsheet.md/claude/claude-prompt-engineering)
+
+## Best Practices
+* [Best practices for prompt engineering with the OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
 
 ## Cheatsheets
-* [The Perfect Prompt: A Prompt Engineering Cheat Sheet _(Maximilian Vogel)_](https://medium.com/the-generator/the-perfect-prompt-prompt-engineering-cheat-sheet-d0b9c62a2bba)
+* [The Perfect Prompt: A Prompt Engineering Cheat Sheet _(Maximilian Vogel)_](https://www.linkedin.com/pulse/perfect-prompt-engineering-cheat-sheet-snippets-part-vogel-ukysf)
 
 ## Prompt Engineering Patterns
 * [Awesome Prompting](https://github.com/corralm/awesome-prompting)
