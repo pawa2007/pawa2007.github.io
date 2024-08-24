@@ -4,6 +4,8 @@
 
 [JavaScript](md/javascript.md)
 
+[Artifical Intelligence (AI)](md/ai.md)
+
 [ESR](md/ESR.md)
 
 [Books](md/books.md)
