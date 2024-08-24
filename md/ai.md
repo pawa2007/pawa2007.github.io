@@ -17,6 +17,7 @@ Notes along the AI journey
 ## Cheatsheets
 * [The Perfect Prompt: A Prompt Engineering Cheat Sheet - Part 1 _(Maximilian Vogel)_](https://www.linkedin.com/pulse/perfect-prompt-engineering-cheat-sheet-snippets-part-vogel-mxkcf/)
 * [The Perfect Prompt: A Prompt Engineering Cheat Sheet - Part 2 _(Maximilian Vogel)_](https://www.linkedin.com/pulse/perfect-prompt-engineering-cheat-sheet-snippets-part-vogel-ukysf)
+* [Midjourney Commands Cheatsheet _(aituts.com)_](https://aituts.com/midjourney-cheatsheet/)
 
 ## Prompt Engineering Patterns
 * [Awesome Prompting](https://github.com/corralm/awesome-prompting)
