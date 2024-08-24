@@ -9,6 +9,7 @@ Notes along the AI journey
 * [Brex](https://github.com/brexhq/prompt-engineering)
 * [Cohere Docs](https://docs.cohere.com/docs/crafting-effective-prompts)
 * [Claude Prompt Engineering Guide](https://cheatsheet.md/claude/claude-prompt-engineering)
+* [How to get Codex to produce the code you want! _(Microsoft)_](https://microsoft.github.io/prompt-engineering/)
 
 ## Best Practices
 * [Best practices for prompt engineering with the OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
