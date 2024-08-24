@@ -1,6 +1,9 @@
 # Artificial Intelligence (AI)
 Notes along the AI journey
 
+## Prompt Engineering Roadmap
+* [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
+
 ## Prompt Engineering Guides
 * [OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
 * [DAIR.AI](https://www.promptingguide.ai/)
@@ -39,7 +42,6 @@ Notes along the AI journey
 * [Awesome Prompt Engineering _(Natasha Newbold)_](https://natnew.github.io/Awesome-Prompt-Engineering/)
 
 ## Compilations
-* [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
 * [Awesome GPT Prompt Engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
 * [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 * [Awesome Prompts](https://github.com/ai-boost/awesome-prompts)
