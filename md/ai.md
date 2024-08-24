@@ -19,7 +19,13 @@ Notes along the AI journey
 * [The Perfect Prompt: A Prompt Engineering Cheat Sheet - Part 2 _(Maximilian Vogel)_](https://www.linkedin.com/pulse/perfect-prompt-engineering-cheat-sheet-snippets-part-vogel-ukysf)
 * [Midjourney Commands Cheatsheet _(aituts.com)_](https://aituts.com/midjourney-cheatsheet/)
 * [ChatGPT Prompt Book _(Dr. Alan D. Thompson)_](https://lifearchitect.ai/chatgpt-prompt-book/)
+* [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+* [ChatGPT Prompts for Data Science!](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
 * [How to Write the Best ChatGPT Prompts (Cheat Sheet for 2024)](https://www.superside.com/blog/chatgpt-prompts)
+* [Stable Diffusion Prompt Book](https://openart.ai/promptbook)
+* [DALL-E 2 Prompt Book](https://dallery.gallery/the-dalle-2-prompt-book/)
+* [7 Best ChatGPT Cheat Sheets in 2024](https://usefulai.com/cheat-sheets/chatgpt)
+* [AIFire Cheatsheets](https://www.aifire.co/p/top-ai-cheatsheets-2024)
 
 ## Prompt Engineering Patterns
 * [Awesome Prompting](https://github.com/corralm/awesome-prompting)
@@ -33,5 +39,10 @@ Notes along the AI journey
 * [Awesome Prompt Engineering _(Natasha Newbold)_](https://natnew.github.io/Awesome-Prompt-Engineering/)
 
 ## Compilations
+* [Awesome GPT Prompt Engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)
 * [Awesome Prompt Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)
 * [Awesome Prompts](https://github.com/ai-boost/awesome-prompts)
+* [AIFire AI Learning Resources](https://www.aifire.co/c/ai-learning-resources)
+
+## Tools
+* [ChatGPT Prompt Generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
