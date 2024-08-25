@@ -1,9 +1,4 @@
-## PARESH WAGH
-#### <pawa2007@outlook.com>
-Odoo Configuration | Customization | Development | Training | Support
-
-
-#### PROFILE
+## PROFILE
 * Odoo Certified
 * [100% Job Success (5 stars on all projects) and Top Rated Plus rating on Upwork _(requires Upwork account)_](https://www.upwork.com/freelancers/~012317d22ee7e46a87)
 * [Active contributor to the Odoo Community listed in the Top 10 on the forum leaderboard](https://www.odoo.com/profile/users)
@@ -14,7 +9,7 @@ Odoo Configuration | Customization | Development | Training | Support
 * Industry experience spans Financial Services, Manufacturing, Food Processing, Pharmaceuticals, Higher Education, Healthcare, Entertainment and Retail
 
 
-#### ODOO FUNCTIONAL EXPERTISE
+## ODOO FUNCTIONAL EXPERTISE
   \* CRM * Sales * Rental * Point of Sale 
   \* Invoicing * Inventory * Purchase
   \* Manufacturing * Projects * Timesheet 
@@ -26,13 +21,14 @@ Odoo Configuration | Customization | Development | Training | Support
   \* Spreadsheets * Recruiting * Planning
 
 
-#### ODOO TECHNICAL EXPERTISE
+## ODOO TECHNICAL EXPERTISE
   \* Configuration * Customization * Odoo Studio
   \* Custom Module Development (XML, Python, JavaScript, HTML, CSS, SCSS)
   \* Deployment * Training * Production Support and Maintenance
   \* Server Setup (Cloud / On-Premise / Odoo.sh) * Software Installation
 
-#### MY CONTINUOUS LEARNING JOURNEYS
+
+## MY CONTINUOUS LEARNING JOURNEYS
 * [Odoo](md/odoo.md)
 * [Data Science (Python/R)](md/python.md)
 * [JavaScript](md/javascript.md)
