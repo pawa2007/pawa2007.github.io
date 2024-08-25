@@ -76,6 +76,10 @@
 
 ### Berkshire Hathaway (Warren Buffet and Charlie Munger)
   * [Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html)
+  * [Poor Charlie's Almanack](https://archive.org/details/poor-charlies-almanack-the-wit-and-wisdom-of-charles-t.-munger-pdfdrive/mode/2up?view=theater)
+
+### Naval Ravikant
+  * [The Almanack of Naval Ravikant](https://www.navalmanack.com/)
 
 
 ## Other
@@ -83,4 +87,3 @@
   * [Books and Writings of Dr. Babasaheb Ambedkar](https://www.mea.gov.in/books-writings-of-ambedkar.htm)
   * [Selected Works of Jawaharlal Nehru](https://nehruselectedworks.com/)
   * [Poor Richard's Almanack](https://archive.org/details/poorrichardsalma00franrich/mode/2up?view=theater)
-  * [The Almanack of Naval Ravikant](https://www.navalmanack.com/)
