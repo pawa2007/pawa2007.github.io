@@ -47,15 +47,10 @@ Industry experience spans Financial Services, Manufacturing, Food Processing, Ph
 
 
 ## ODOO TECHNICAL EXPERTISE
-```Configuration```
-```Customization```
-```Odoo Studio```
-```Custom Module Development (XML, Python, JavaScript, HTML, CSS, SCSS)```
-```Deployment```
-```Training```
-```Production Support and Maintenance```
-```Server Setup (Cloud / On-Premise / Odoo.sh)```
-```Software Installation```
+``` Configuration ``` ``` Customization ``` ``` Odoo Studio ```
+``` Custom Module Development (XML, Python, JavaScript, HTML, CSS, SCSS) ```
+``` Deployment ``` ``` Training ``` ``` Production Support and Maintenance ```
+``` Server Setup (Cloud / On-Premise / Odoo.sh) ``` ``` Software Installation ```
 
 
 ## MY CONTINUOUS LEARNING JOURNEYS
