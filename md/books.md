@@ -64,11 +64,11 @@
 ## Financial Success / Wealth Management
 
 ### Andrew Carnegie
-  * [The Gospel of Wealth and other timely essays](https://archive.org/details/gospelofwealthot00carnuoft/mode/1up)
-  * [The Empire of Business](https://archive.org/details/empireofbusiness00carnuoft/mode/1up)
-  * [Wealth](https://archive.org/details/8906CarnegieWealth/mode/1up)
+  * [The Gospel of Wealth and other timely essays](https://archive.org/details/gospelofwealthot00carnuoft/mode/2up?view=theater)
+  * [The Empire of Business](https://archive.org/details/empireofbusiness00carnuoft/mode/2up?view=theater)
+  * [Wealth](https://archive.org/details/8906CarnegieWealth/mode/2up?view=theater)
 
 ### Napoleon Hill
-  * [Think and Grow Rich](https://archive.org/details/thinkgrowric00hill/mode/1up)
-  * [The 5 Essential Principles of Think and Grow Rich](https://archive.org/details/napoleon-hill-foundation-the-5-essential-principles-of-think-and-grow-rich-the-p/mode/1up)
-  * [The Law of Success in Sixteen Lessons](https://archive.org/details/Law_Of_Success_in_16_Lessons/mode/1up)
+  * [Think and Grow Rich](https://archive.org/details/thinkgrowric00hill/mode/2up?view=theater)
+  * [The 5 Essential Principles of Think and Grow Rich](https://archive.org/details/napoleon-hill-foundation-the-5-essential-principles-of-think-and-grow-rich-the-p/mode/2up?view=theater)
+  * [The Law of Success in Sixteen Lessons](https://archive.org/details/Law_Of_Success_in_16_Lessons/mode/2up?view=theater)
