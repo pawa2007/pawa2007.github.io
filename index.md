@@ -70,9 +70,9 @@ Industry experience spans Financial Services, Manufacturing, Food Processing, Ph
 
 [Odoo](md/odoo.md)
 
-[Data Science (Python/R)](md/python.md)
+[Python, R and Data Science](md/python.md)
 
-[JavaScript](md/javascript.md)
+[JavaScript, ECMAScript and TypeScript](md/javascript.md)
 
 [Artifical Intelligence (AI)](md/ai.md)
 
