@@ -2,6 +2,10 @@
 layout: default
 ---
 
+#### Are you looking to maximize the value of your Odoo implementation without extensive customization? Let’s connect! I specialize in helping businesses achieve the best results from their Odoo systems, ensuring you get the most bang for your buck. Together, we can streamline your processes and enhance your efficiency. Reach out today!
+
+## PROFILE
+
 Odoo Certified
 
 [100% Job Success and Top Rated Plus (Top 3%) rating on Upwork](https://www.upwork.com/freelancers/~012317d22ee7e46a87)
