@@ -49,3 +49,4 @@ Notes along the AI journey
 
 ## Tools
 * [ChatGPT Prompt Generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
+* [Training Dataset used for the ChatGPT Prompt Generator](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer/default/train)
