@@ -59,9 +59,15 @@ Industry experience spans Financial Services, Manufacturing, Food Processing, Ph
 
 
 ## MY CONTINUOUS LEARNING JOURNEY
-* [Odoo](md/odoo.md)
-* [Data Science (Python/R)](md/python.md)
-* [JavaScript](md/javascript.md)
-* [Artifical Intelligence (AI)](md/ai.md)
-* [ESR](md/ESR.md)
-* [Books](md/books.md)
+
+[Odoo](md/odoo.md)
+
+[Data Science (Python/R)](md/python.md)
+
+[JavaScript](md/javascript.md)
+
+[Artifical Intelligence (AI)](md/ai.md)
+
+[ESR](md/ESR.md)
+
+[Books](md/books.md)
