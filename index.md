@@ -13,7 +13,7 @@ Odoo Certified
 
 [Active contributor to the Odoo Community listed in the Top 10 on the forum leaderboard](https://www.odoo.com/profile/users)
 
-Hands-on expertise in business analysis, architecture, design, development, and training
+Hands-on expertise in business analysis, software architecture, design, development, and training
 
 Over 20 years’ experience in software development and ERP systems
 
