@@ -49,6 +49,7 @@
 
 ## Autobiographies / Memoirs / Biographies
   * [Autobiography of Andrew Carnegie](https://archive.org/details/autobiographyofa00carn/mode/2up?view=theater)
+  * [Autobiography of Benjamin Franklin](https://archive.org/details/autobiographybe03bigegoog/mode/2up?view=theater)
   * Memoirs of a Revolutionist _(Pyotr Alexeyvich Kropotkin)_
   [Vol 1](https://archive.org/details/memoirsofrevolut01kropuoft/page/n5/mode/2up?view=theater) 
   [Vol 2](https://archive.org/details/memoirsofrevolut02kropuoft/page/n8/mode/2up?view=theater)
@@ -72,3 +73,14 @@
   * [Think and Grow Rich](https://archive.org/details/thinkgrowric00hill/mode/2up?view=theater)
   * [The 5 Essential Principles of Think and Grow Rich](https://archive.org/details/napoleon-hill-foundation-the-5-essential-principles-of-think-and-grow-rich-the-p/mode/2up?view=theater)
   * [The Law of Success in Sixteen Lessons](https://archive.org/details/Law_Of_Success_in_16_Lessons/mode/2up?view=theater)
+
+### Berkshire Hathaway (Warren Buffet and Charlie Munger)
+  * [Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html)
+
+
+## Other
+  * [The Complete Works of Swami Vivekananda](https://ramakrishnavivekananda.info/vivekananda/complete_works.htm) [[Archive.org (slow)](https://archive.org/details/complete-works-of-swami-vivekananda-all-volumes-swami-vivekananda/mode/2up?view=theater)]
+  * [Books and Writings of Dr. Babasaheb Ambedkar](https://www.mea.gov.in/books-writings-of-ambedkar.htm)
+  * [Selected Works of Jawaharlal Nehru](https://nehruselectedworks.com/)
+  * [Poor Richard's Almanack](https://archive.org/details/poorrichardsalma00franrich/mode/2up?view=theater)
+  * [The Almanack of Naval Ravikant](https://www.navalmanack.com/)
