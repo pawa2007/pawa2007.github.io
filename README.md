@@ -58,7 +58,7 @@ Industry experience spans Financial Services, Manufacturing, Food Processing, Ph
 ![Software Installation](https://badgen.net/static/Odoo/Software%20Installation/grey?scale=1.25)
 
 
-## MY CONTINUOUS LEARNING JOURNEYS
+## MY CONTINUOUS LEARNING JOURNEY
 * [Odoo](md/odoo.md)
 * [Data Science (Python/R)](md/python.md)
 * [JavaScript](md/javascript.md)
