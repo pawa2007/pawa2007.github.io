@@ -56,6 +56,7 @@ Industry experience spans Financial Services, Manufacturing, Food Processing, Ph
 ![Configuration](https://badgen.net/static/Odoo/Configuration/grey?scale=1.25)
 ![Customization](https://badgen.net/static/Odoo/Customization/grey?scale=1.25)
 ![Studio](https://badgen.net/static/Odoo/Studio/grey?scale=1.25)
+![SAAS](https://badgen.net/static/Odoo/Online/grey?scale=1.25)
 ![Custom Module Development (XML, Python, JavaScript, HTML, CSS, SCSS)](https://badgen.net/static/Odoo/Development%20(XML,%20Python,%20JavaScript,%20HTML,%20CSS,%20SCSS)/grey?scale=1.25)
 ![Deployment](https://badgen.net/static/Odoo/Deployment/grey?scale=1.25)
 ![Training](https://badgen.net/static/Odoo/Training/grey?scale=1.25)
