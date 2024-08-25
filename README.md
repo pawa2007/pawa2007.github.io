@@ -1,6 +1,6 @@
 ## PROFILE
 
-Odoo Certified
+### Odoo Certified
 
 [100% Job Success (5 stars on all projects) and Top Rated Plus rating on Upwork _(requires Upwork account)_](https://www.upwork.com/freelancers/~012317d22ee7e46a87)
 
@@ -47,10 +47,15 @@ Industry experience spans Financial Services, Manufacturing, Food Processing, Ph
 
 
 ## ODOO TECHNICAL EXPERTISE
-``` Configuration ``` ``` Customization ``` ``` Odoo Studio ```
-``` Custom Module Development (XML, Python, JavaScript, HTML, CSS, SCSS) ```
-``` Deployment ``` ``` Training ``` ``` Production Support and Maintenance ```
-``` Server Setup (Cloud / On-Premise / Odoo.sh) ``` ``` Software Installation ```
+![Configuration](https://badgen.net/static/Odoo/Configuration/grey?scale=1.25)
+![Customization](https://badgen.net/static/Odoo/Customization/grey?scale=1.25)
+![Studio](https://badgen.net/static/Odoo/Studio/grey?scale=1.25)
+![Custom Module Development (XML, Python, JavaScript, HTML, CSS, SCSS)](https://badgen.net/static/Odoo/Custom%20Module%20Development%20(XML,%20Python,%20JavaScript,%20HTML,%20CSS,%20SCSS)/grey?scale=1.25)
+![Deployment](https://badgen.net/static/Odoo/Deployment/grey?scale=1.25)
+![Training](https://badgen.net/static/Odoo/Training/grey?scale=1.25)
+![Production Support and Maintenance](https://badgen.net/static/Odoo/Production%20Support%20and%20Maintenance/grey?scale=1.25)
+![Server Setup (Cloud / On-Premise / Odoo.sh)](https://badgen.net/static/Odoo/Server%20Setup%20(Cloud%20%2F%20On-Premise%20%2F%20Odoo.sh)/grey?scale=1.25)
+![Software Installation](https://badgen.net/static/Odoo/Software%20Installation/grey?scale=1.25)
 
 
 ## MY CONTINUOUS LEARNING JOURNEYS
