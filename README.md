@@ -10,15 +10,32 @@
 
 
 ## ODOO FUNCTIONAL EXPERTISE
-  \* CRM * Sales * Rental * Point of Sale 
-  \* Invoicing * Inventory * Purchase
-  \* Manufacturing * Projects * Timesheet 
-  \* Expenses * Employees * Attendance
-  \* Website * Surveys * eCommerce 
-  \* Payroll * Accounting * Email Marketing
-  \* Data Cleaning * Dashboards * Documents
-  \* Recruiting * Planning * Sign
-  \* Spreadsheets * Recruiting * Planning
+![Accounting](https://badgen.net/static/Odoo/Accounting/purple?scale=1.5)
+![CRM](https://badgen.net/static/Odoo/CRM/purple?scale=1.5)
+![Sales](https://badgen.net/static/Odoo/Sales/purple?scale=1.5)
+![Website](https://badgen.net/static/Odoo/Website/purple?scale=1.5)
+![eCommerce](https://badgen.net/static/Odoo/eCommerce/purple?scale=1.5)
+![Invoicing](https://badgen.net/static/Odoo/Invoicing/purple?scale=1.5)
+![Inventory](https://badgen.net/static/Odoo/Inventory/purple?scale=1.5)
+![Purchase](https://badgen.net/static/Odoo/Purchase/purple?scale=1.5)
+![Manufacturing](https://badgen.net/static/Odoo/Manufacturing/purple?scale=1.5)
+![Projects](https://badgen.net/static/Odoo/Projects/purple?scale=1.5)
+![Timesheet](https://badgen.net/static/Odoo/Timesheet/purple?scale=1.5)
+![Point of Sale](https://badgen.net/static/Odoo/Point%20of%20Sale/purple?scale=1.5)
+![Rental](https://badgen.net/static/Odoo/Rental/purple?scale=1.5)
+![Expenses](https://badgen.net/static/Odoo/Expenses/purple?scale=1.5)
+![Employees](https://badgen.net/static/Odoo/Employees/purple?scale=1.5)
+![Attendance](https://badgen.net/static/Odoo/Attendance/purple?scale=1.5)
+![Surveys](https://badgen.net/static/Odoo/Surveys/purple?scale=1.5)
+![Payroll](https://badgen.net/static/Odoo/Payroll/purple?scale=1.5)
+![Email Marketing](https://badgen.net/static/Odoo/Email%20Marketing/purple?scale=1.5)
+![Data Cleaning](https://badgen.net/static/Odoo/Data%20Cleaning/purple?scale=1.5)
+![Dashboards](https://badgen.net/static/Odoo/Dashboards/purple?scale=1.5)
+![Documents](https://badgen.net/static/Odoo/Documents/purple?scale=1.5)
+![Recruiting](https://badgen.net/static/Odoo/Recruiting/purple?scale=1.5)
+![Planning](https://badgen.net/static/Odoo/Planning/purple?scale=1.5)
+![Sign](https://badgen.net/static/Odoo/Sign/purple?scale=1.5)
+![Spreadsheets](https://badgen.net/static/Odoo/Spreadsheets/purple?scale=1.5)
 
 
 ## ODOO TECHNICAL EXPERTISE
