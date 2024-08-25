@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## PROFILE
-
 Odoo Certified
 
 [100% Job Success (5 stars on all projects) and Top Rated Plus rating on Upwork](https://www.upwork.com/freelancers/~012317d22ee7e46a87)
