@@ -48,10 +48,10 @@
 
 
 ## Autobiographies / Memoirs / Biographies
-  * [Autobiography of Andrew Carnegie](https://archive.org/details/autobiographyofa00carn/mode/1up)
+  * [Autobiography of Andrew Carnegie](https://archive.org/details/autobiographyofa00carn/mode/2up?view=theater)
   * Memoirs of a Revolutionist _(Pyotr Alexeyvich Kropotkin)_
-  [Vol 1](https://archive.org/details/memoirsofrevolut01kropuoft/page/n5/mode/1up) 
-  [Vol 2](https://archive.org/details/memoirsofrevolut02kropuoft/page/n8/mode/1up)
+  [Vol 1](https://archive.org/details/memoirsofrevolut01kropuoft/page/n5/mode/2up?view=theater) 
+  [Vol 2](https://archive.org/details/memoirsofrevolut02kropuoft/page/n8/mode/2up?view=theater)
     > [*Having been brought up in a serf-owner's family, I entered active life, like all young men of my time, 
     with a great deal of confidence in the necessity of commanding, ordering, scolding, punishing and the like.
     But when, at an early stage, I had to manage serious enterprises and to deal with [free] men, and when each 
