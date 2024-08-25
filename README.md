@@ -1,6 +1,6 @@
 ## PROFILE
 
-### Odoo Certified
+Odoo Certified
 
 [100% Job Success (5 stars on all projects) and Top Rated Plus rating on Upwork _(requires Upwork account)_](https://www.upwork.com/freelancers/~012317d22ee7e46a87)
 
