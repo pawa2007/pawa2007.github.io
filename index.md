@@ -14,7 +14,7 @@ Over 20 years’ experience in software development and ERP systems
 
 Worked for organizations ranging in size from startups to Fortune 100 companies
 
-Delivered solutions to clients in India, USA, UK, Canada, Belgium, Switzerland, Netherlands, Romania, Egypt, France, Brazil and Myanmar
+Delivered solutions to clients in India, USA, Switzerland, Netherlands, UK, Canada, Belgium, Romania, Egypt, France, Brazil and Myanmar
 
 Industry experience spans Financial Services, Manufacturing, Food Processing, Pharmaceuticals, Higher Education, Healthcare, Entertainment and Retail
 
