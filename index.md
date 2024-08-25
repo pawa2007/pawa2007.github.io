@@ -42,10 +42,10 @@ Industry experience spans Financial Services, Manufacturing, Food Processing, Ph
 ![Data Cleaning](https://badgen.net/static/Odoo/Data%20Cleaning/purple?scale=1.25)
 ![Dashboards](https://badgen.net/static/Odoo/Dashboards/purple?scale=1.25)
 ![Documents](https://badgen.net/static/Odoo/Documents/purple?scale=1.25)
-![Recruiting](https://badgen.net/static/Odoo/Recruiting/purple?scale=1.25)
-![Planning](https://badgen.net/static/Odoo/Planning/purple?scale=1.25)
 ![Sign](https://badgen.net/static/Odoo/Sign/purple?scale=1.25)
 ![Spreadsheets](https://badgen.net/static/Odoo/Spreadsheets/purple?scale=1.25)
+![Recruiting](https://badgen.net/static/Odoo/Recruiting/purple?scale=1.25)
+![Planning](https://badgen.net/static/Odoo/Planning/purple?scale=1.25)
 
 
 ## ODOO TECHNICAL EXPERTISE
