@@ -8,6 +8,7 @@ Notes along the AI journey
 * [OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
 * [DAIR.AI](https://www.promptingguide.ai/)
 * [Learn Prompting](https://learnprompting.org/docs/introduction)
+* [Google Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design)
 * [GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
 * [Brex](https://github.com/brexhq/prompt-engineering)
 * [Cohere Docs](https://docs.cohere.com/docs/crafting-effective-prompts)
