@@ -54,10 +54,10 @@ Notes along the AI journey
 
 ## Communities
 
-| Name | Description | URL |
-|------|-------------|-----|
-| Hugging Face     | One of the largest AI model and dataset repositories. Offers pre-trained models for various tasks like text generation, translation, image classification. Allows community contributions. Provides hosting solutions like Inference Endpoints. | [Hugging Face](https://huggingface.co) |
-| Kaggle           | World's largest data science community with tools and resources for machine learning and data science projects. Users can participate in coding competitions, access datasets, notebooks, and pre-trained models. Provides a platform for hosting and sharing models, datasets, and projects. | [Kaggle](https://www.kaggle.com) |
+| Name | Description |
+|------|-------------|
+| [Hugging Face](https://huggingface.co) | One of the largest AI model and dataset repositories. Offers pre-trained models for various tasks like text generation, translation, image classification. Allows community contributions. Provides hosting solutions like Inference Endpoints. |
+| [Kaggle](https://www.kaggle.com)       | World's largest data science community with tools and resources for machine learning and data science projects. Users can participate in coding competitions, access datasets, notebooks, and pre-trained models. Provides a platform for hosting and sharing models, datasets, and projects. |
 
 ## Pre-trained Models
 
