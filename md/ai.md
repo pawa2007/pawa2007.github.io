@@ -62,54 +62,47 @@ Notes along the AI journey
 
 ## Frontier Models
 <!-- list 50 frontier ai models. sort the results by model release date in descending order. display the results in a tabular format with columns for model name as a hyperlink to website, capabilities, release date. -->
+<!-- sort the table by release date in descending order -->
 
-| Model Name                                     | Capabilities          | Release Date |
-|------------------------------------------------|-----------------------|--------------|
-| [Claude 3](https://www.anthropic.com)         | Language, Vision      | March 2024   |
-| [Gemini 1.5](https://blog.google/products/ai/gemini-1-5/) | Language, Vision      | February 2024|
-| [Mistral Large](https://mistral.ai)           | Language              | February 2024|
-| [Inflection-2](https://inflection.ai)         | Language              | November 2023|
-| [Grok 1](https://x.ai)                         | Language              | November 2023|
-| [GPT-4](https://openai.com)                   | Language, Vision      | April 2023   |
-| [Gemini 1.0 Ultra](https://blog.google/products/ai/gemini-1-0-ultra/) | Language, Vision      | December 2023|
-| [DALL-E 2](https://openai.com/dall-e-2)       | Image Generation      | September 2022|
-| [GPT-3.5](https://openai.com)                 | Language              | March 2022   |
-| [PaLM](https://ai.googleblog.com)             | Language              | April 2022   |
-| [CLIP](https://openai.com/research/clip)      | Image and Text        | January 2021 |
-| [BigGAN](https://openai.com/research/biggan)  | Image Generation      | January 2021 |
-| [T5](https://ai.googleblog.com)                | Language              | October 2019 |
-| [BERT](https://ai.googleblog.com)              | Language              | October 2018 |
-| [GPT-2](https://openai.com/research/gpt-2)    | Language              | February 2019|
-| [XLNet](https://ai.googleblog.com)             | Language              | June 2019    |
-| [RoBERTa](https://ai.facebook.com)             | Language              | July 2019    |
-| [ERNIE](https://www.baai.ac.cn)                | Language              | July 2019    |
-| [ALBERT](https://ai.googleblog.com)            | Language              | September 2019|
-| [CTRL](https://ai.googleblog.com)              | Language              | December 2019|
-| [Reformer](https://ai.googleblog.com)          | Language              | December 2019|
-| [Turing-NLG](https://www.microsoft.com)       | Language              | February 2020|
-| [Megatron-Turing NLG](https://www.nvidia.com) | Language              | October 2021 |
-| [GShard](https://ai.googleblog.com)            | Language              | May 2020     |
-| [Switch Transformer](https://ai.googleblog.com) | Language              | January 2021 |
-| [GPT-3](https://openai.com)                   | Language              | June 2020    |
-| [Turing-NLG 17B](https://www.microsoft.com)   | Language              | February 2020|
-| [Turing-NLG 1.3B](https://www.microsoft.com)  | Language              | February 2020|
-| [DALL-E](https://openai.com/dall-e)           | Image Generation      | January 2021 |
-| [StyleGAN](https://github.com/NVlabs/stylegan) | Image Generation      | February 2019|
-| [DeepAI Text to Image](https://deepai.org)    | Image Generation      | April 2020   |
-| [DeepDream](https://deepdreamgenerator.com)    | Image Generation      | June 2015    |
-| [CycleGAN](https://junyanz.github.io/CycleGAN/) | Image Translation     | January 2017 |
-| [Neural Style Transfer](https://www.tensorflow.org) | Image Generation      | October 2015 |
-| [VQGAN+CLIP](https://github.com/nerdyrodent/VQGAN-CLIP) | Image Generation      | January 2021 |
-| [Image GPT](https://openai.com/research/image-gpt) | Image Generation      | January 2020 |
-| [DeepFakes](https://github.com/deepfakes)     | Video Generation      | December 2017 |
-| [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) | Human Pose Estimation | October 2018 |
-| [YOLOv5](https://github.com/ultralytics/yolov5) | Object Detection      | June 2020    |
-| [Mask R-CNN](https://github.com/matterport/Mask_RCNN) | Object Detection      | October 2017 |
-| [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn) | Object Detection      | September 2015 |
-| [ResNet](https://github.com/KaimingHe/deep-residual-networks) | Image Classification | December 2015 |
-| [Inception](https://github.com/google/inception) | Image Classification | September 2014 |
-| [AlexNet](https://www.cs.toronto.edu/~fritz/absps/alexnet.pdf) | Image Classification | September 2012 |
-| [LeNet](http://yann.lecun.com/exdb/lenet/)    | Image Classification | 1998         |
+| Model Name | Capabilities | Release Date |
+|------------|--------------|--------------|
+| [GPT-5](https://openai.com/research/gpt-5) | Next-generation language model | Expected late 2024 |
+| [Gemini Ultra](https://ai.googleblog.com/2024/01/gemini-ultra.html) | Advanced language and multimodal capabilities | January 2024 |
+| [Claude 3](https://www.anthropic.com/claude) | Enhanced conversational AI and reasoning | December 2023 |
+| [Mistral 7B](https://mistral.ai/) | Efficient language generation | December 2023 |
+| [Llama 2 70B](https://ai.meta.com/llama/) | Large language model for various tasks | December 2023 |
+| [Falcon 180B](https://www.huggingface.co/tiiuae/falcon-180b) | High-performance language model | December 2023 |
+| [Gemini](https://ai.googleblog.com/2023/12/gemini.html) | Multimodal capabilities for AI tasks | December 2023 |
+| [Mixtral](https://mistral.ai/mixtral) | Multi-task language model | December 2023 |
+| [OpenAssistant](https://open-assistant.io/) | Open-source conversational agent | October 2023 |
+| [DALL-E 3](https://openai.com/dall-e-3) | Enhanced image generation capabilities | September 2023 |
+| [Stable Diffusion XL](https://stability.ai/blog/stable-diffusion-xl) | Enhanced image generation model | August 2023 |
+| [LLava](https://llava.ai/) | Language and vision integration | July 2023 |
+| [Claude 2](https://www.anthropic.com/claude) | Improved conversational AI | July 2023 |
+| [LLaMA 2](https://ai.meta.com/llama/) | Open-source language model | July 2023 |
+| [Ray Serve](https://docs.ray.io/en/latest/serve/index.html) | Scalable model serving | July 2023 |
+| [vLLM](https://vllm.readthedocs.io/en/latest/) | Efficient language model serving | August 2023 |
+| [Vision Assistant](https://www.huggingface.co/models?search=vision+assistant) | Multimodal vision processing | June 2023 |
+| [PaLM 2](https://ai.googleblog.com/2023/04/introducing-palm-2.html) | Multimodal language processing | April 2023 |
+| [Bard](https://bard.google.com) | Conversational AI with web integration | March 2023 |
+| [Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) | Generative design and image editing | March 2023 |
+| [Anthropic's Claude](https://www.anthropic.com/claude) | Safety-oriented conversational AI | March 2023 |
+| [GPT-3.5 Turbo](https://openai.com/research/gpt-3-5-turbo) | Faster and cheaper version of GPT-3.5 | March 2023 |
+| [GPT-4](https://openai.com/research/gpt-4) | State-of-the-art language understanding | March 2023 |
+| [ChatGPT-4.5](https://openai.com/chatgpt) | Improved conversational capabilities | February 2023 |
+| [Langchain](https://langchain.com/) | Framework for building LLM applications | February 2023 |
+| [LlamaIndex](https://gptindex.readthedocs.io/en/latest/) | Data indexing for LLMs | January 2023 |
+| [EleutherAI's GPT-NeoX](https://www.eleuther.ai/projects/gpt-neox/) | Open-source large language model | January 2023 |
+| [Text Generation Inference](https://huggingface.co/docs/transformers/main/en/index) | Efficient text generation | April 2023 |
+| [Cohere Command R](https://cohere.ai/) | Language model for command generation | April 2023 |
+| [DeepMind's Gato](https://deepmind.com/research/publications/gato) | Generalist agent for various tasks | May 2022 |
+| [Stable Diffusion 2.0](https://stability.ai/blog/stable-diffusion-v2) | Advanced image synthesis | November 2022 |
+| [ChatGPT-3.5](https://openai.com/chatgpt) | Conversational AI with improved context | November 2022 |
+| [Jurassic-2](https://www.ai21.com/jurassic-2) | Advanced natural language processing | November 2022 |
+| [DeepAI's Text to Image](https://deepai.org/machine-learning-model/text2img) | Text-to-image generation | November 2022 |
+| [DALL-E 2](https://openai.com/dall-e-2) | Image generation from text prompts | September 2022 |
+| [OpenAI's Whisper](https://openai.com/research/whisper) | Speech recognition and transcription | September 2022 |
+| [OpenAI Codex](https://openai.com/research/codex) | Code generation and understanding | August 2022 |
 
 ## Pre-trained Models
 
