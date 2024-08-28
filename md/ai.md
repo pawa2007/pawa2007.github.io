@@ -58,9 +58,6 @@ Notes along the AI journey
 |------|-------------|-----|
 | Hugging Face     | One of the largest AI model and dataset repositories. Offers pre-trained models for various tasks like text generation, translation, image classification. Allows community contributions. Provides hosting solutions like Inference Endpoints. | [Hugging Face](https://huggingface.co) |
 | Kaggle           | World's largest data science community with tools and resources for machine learning and data science projects. Users can participate in coding competitions, access datasets, notebooks, and pre-trained models. Provides a platform for hosting and sharing models, datasets, and projects. | [Kaggle](https://www.kaggle.com) |
-| Together AI      | AI acceleration cloud that provides infrastructure for running, fine-tuning and training large language models. Offers serverless and dedicated instances for inference, fine-tuning with proprietary data, and training custom models. Powered by cutting-edge research for optimized performance. | [Together AI](https://www.together.ai) |
-| TensorFlow Hub   | Library for reusable machine learning models. Provides a collection of pre-trained models ready to be used in applications with minimal code. Models cover image classification, text embedding, question answering and more. | [TensorFlow Hub](https://tfhub.dev) |
-| PyTorch Hub      | Model repository for hosting pre-trained models. Allows users to load models directly from the repository and use them in their applications. Models cover computer vision, natural language processing, speech recognition and more. Makes it easy to leverage state-of-the-art models without having to train from scratch. | [PyTorch Hub](https://pytorch.org/hub) |
 
 ## Pre-trained Models
 
