@@ -60,6 +60,64 @@ Notes along the AI journey
 | [Hugging Face](https://huggingface.co) | One of the largest AI model and dataset repositories. Offers pre-trained models for various tasks like text generation, translation, image classification. Allows community contributions. Provides hosting solutions like Inference Endpoints. |
 | [Kaggle](https://www.kaggle.com)       | World's largest data science community with tools and resources for machine learning and data science projects. Users can participate in coding competitions, access datasets, notebooks, and pre-trained models. Provides a platform for hosting and sharing models, datasets, and projects. |
 
+## Frontier Models
+
+<!-- list 50 frontier ai models. display the results in a tabular format with columns for model name as a hyperlink to website, capabilities, release date. -->
+| Model Name | Capabilities | Release Date |
+|------------|--------------|--------------|
+| [GPT-4](https://openai.com/research/gpt-4) | Language, Vision | April 2023 |
+| [Gemini 1.5](https://ai.googleblog.com/2024/02/gemini-15.html) | Language, Vision | February 2024 |
+| [Mistral Large](https://mistral.ai/models/mistral-large) | Language | February 2024 |
+| [Claude 3](https://www.anthropic.com/claude) | Language, Vision | March 2024 |
+| [Inflection-2](https://inflection.ai) | Language | November 2023 |
+| [Grok 1](https://x.ai/grok) | Language | November 2023 |
+| [PaLM 2](https://ai.googleblog.com/2023/04/palm-2.html) | Language | April 2023 |
+| [DALL-E 2](https://openai.com/dall-e-2) | Image Generation | April 2022 |
+| [Stable Diffusion 2.0](https://stability.ai/blog/stable-diffusion-2-0) | Image Generation | November 2022 |
+| [LLaMA 2](https://ai.facebook.com/blog/large-language-models-llama-2) | Language | July 2023 |
+| [Flamingo](https://deepmind.com/research/publications/flamingo) | Language, Vision | December 2022 |
+| [Grok 2](https://x.ai/grok-2) | Language | March 2024 |
+| [ChatGPT](https://openai.com/chatgpt) | Language | November 2022 |
+| [Bard](https://bard.google.com) | Language | March 2023 |
+| [OpenAI Codex](https://openai.com/research/codex) | Code Generation | August 2021 |
+| [DeepMind's Gato](https://deepmind.com/research/publications/gato) | Multimodal | May 2022 |
+| [Anthropic's Claude](https://www.anthropic.com/claude) | Language, Vision | March 2023 |
+| [Turing-NLG](https://www.microsoft.com/en-us/research/project/turing-natural-language-generation) | Language | February 2021 |
+| [EleutherAI GPT-NeoX](https://www.eleuther.ai/projects/gpt-neox) | Language | January 2022 |
+| [Cohere Command R](https://cohere.ai) | Language | September 2023 |
+| [Meta's OPT](https://ai.facebook.com/tools/opt) | Language | May 2022 |
+| [Google's PaLM](https://ai.google.com/palm) | Language | April 2022 |
+| [Mistral 7B](https://mistral.ai/models/mistral-7b) | Language | September 2023 |
+| [ChatGPT-4.5](https://openai.com/research/chatgpt-4-5) | Language | March 2024 |
+| [OpenAI's Whisper](https://openai.com/research/whisper) | Speech Recognition | September 2022 |
+| [Jasper AI](https://www.jasper.ai) | Language | January 2021 |
+| [Copy.ai](https://www.copy.ai) | Language | December 2020 |
+| [Writer](https://writer.com) | Language | 2021 |
+| [Runway's Gen-2](https://runwayml.com/gen-2) | Video Generation | March 2023 |
+| [Synthesia](https://www.synthesia.io) | Video Generation | 2021 |
+| [DeepAI](https://deepai.org) | Image Generation | 2020 |
+| [DALL-E 3](https://openai.com/dall-e-3) | Image Generation | September 2023 |
+| [OpenAI's CLIP](https://openai.com/research/clip) | Image, Language | January 2021 |
+| [DeepMind's AlphaFold](https://deepmind.com/research/case-studies/alphafold) | Protein Folding | July 2021 |
+| [Google's BERT](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html) | Language | November 2018 |
+| [XLNet](https://arxiv.org/abs/1906.08237) | Language | June 2019 |
+| [T5](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html) | Language | February 2020 |
+| [Reformer](https://arxiv.org/abs/2001.04451) | Language | January 2020 |
+| [BigGAN](https://arxiv.org/abs/1809.11096) | Image Generation | September 2018 |
+| [StyleGAN2](https://arxiv.org/abs/1912.04958) | Image Generation | December 2019 |
+| [VQGAN](https://arxiv.org/abs/2010.04758) | Image Generation | October 2020 |
+| [CLIPDraw](https://arxiv.org/abs/2106.14843) | Image Generation | June 2021 |
+| [Swin Transformer](https://arxiv.org/abs/2103.14030) | Vision | March 2021 |
+| [Vision Transformer (ViT)](https://arxiv.org/abs/2010.11929) | Vision | October 2020 |
+| [YOLOv5](https://github.com/ultralytics/yolov5) | Object Detection | June 2020 |
+| [Detectron2](https://github.com/facebookresearch/detectron2) | Object Detection | August 2019 |
+| [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) | Pose Estimation | 2018 |
+| [AlphaZero](https://deepmind.com/research/case-studies/alphazero) | Game Playing | December 2017 |
+| [Codex](https://openai.com/research/codex) | Code Generation | August 2021 |
+| [FLAN-T5](https://ai.google.com/research/flan) | Language | September 2022 |
+| [Grok 3](https://x.ai/grok-3) | Language | April 2024 |
+| [Anthropic's Claude 2](https://www.anthropic.com/claude) | Language, Vision | July 2023 |
+
 ## Pre-trained Models
 
 | Model | Full Name | Description | Company | Date         |
