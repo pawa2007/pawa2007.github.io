@@ -61,8 +61,8 @@ Notes along the AI journey
 | [Kaggle](https://www.kaggle.com)       | World's largest data science community with tools and resources for machine learning and data science projects. Users can participate in coding competitions, access datasets, notebooks, and pre-trained models. Provides a platform for hosting and sharing models, datasets, and projects. |
 
 ## Frontier Models
-
 <!-- list 50 frontier ai models. display the results in a tabular format with columns for model name as a hyperlink to website, capabilities, release date. -->
+
 | Model Name | Capabilities | Release Date |
 |------------|--------------|--------------|
 | [GPT-4](https://openai.com/research/gpt-4) | Language, Vision | April 2023 |
