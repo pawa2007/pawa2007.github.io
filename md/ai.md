@@ -53,6 +53,7 @@ Notes along the AI journey
 * [Training Dataset used for the ChatGPT Prompt Generator](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer/default/train)
 
 ## Communities
+
 | Name | Description | URL |
 |------|-------------|-----|
 | Hugging Face     | One of the largest AI model and dataset repositories. Offers pre-trained models for various tasks like text generation, translation, image classification. Allows community contributions. Provides hosting solutions like Inference Endpoints. | [Hugging Face](https://huggingface.co) |
@@ -62,6 +63,7 @@ Notes along the AI journey
 | PyTorch Hub      | Model repository for hosting pre-trained models. Allows users to load models directly from the repository and use them in their applications. Models cover computer vision, natural language processing, speech recognition and more. Makes it easy to leverage state-of-the-art models without having to train from scratch. | [PyTorch Hub](https://pytorch.org/hub) |
 
 ## Pre-trained Models
+
 | Model | Description | Company | URL | Date |
 |-------|-------------|---------|-------------|--------------|
 | BERT | Bidirectional Encoder Representations from Transformers, designed for understanding the context of words in search queries. | Google | [Link](https://github.com/google-research/bert) | March 2021 |
