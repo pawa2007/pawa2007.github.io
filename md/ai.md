@@ -53,12 +53,19 @@ Notes along the AI journey
 * [ChatGPT Prompt Generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator)
 * [Training Dataset used for the ChatGPT Prompt Generator](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/viewer/default/train)
 
+## Development Frameworks
+* [LangChain](https://www.langchain.com/)
+
 ## Communities
 
 | Name | Description |
 |------|-------------|
 | [Hugging Face](https://huggingface.co) | One of the largest AI model and dataset repositories. Offers pre-trained models for various tasks like text generation, translation, image classification. Allows community contributions. Provides hosting solutions like Inference Endpoints. |
 | [Kaggle](https://www.kaggle.com)       | World's largest data science community with tools and resources for machine learning and data science projects. Users can participate in coding competitions, access datasets, notebooks, and pre-trained models. Provides a platform for hosting and sharing models, datasets, and projects. |
+
+## Research
+* [Semantic Scholar _(Search Engine)_](https://www.semanticscholar.org/)
+* [Association for Computational Linguistics](https://aclanthology.org/)
 
 ## Frontier Models
 <!-- list 50 frontier ai models. sort the results by model release date in descending order. display the results in a tabular format with columns for model name as a hyperlink to website, capabilities, release date. -->
