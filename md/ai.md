@@ -64,6 +64,7 @@ Notes along the AI journey
 | [Kaggle](https://www.kaggle.com)       | World's largest data science community with tools and resources for machine learning and data science projects. Users can participate in coding competitions, access datasets, notebooks, and pre-trained models. Provides a platform for hosting and sharing models, datasets, and projects. |
 
 ## Research
+* [arXiv](https://arxiv.org)
 * [Semantic Scholar _(Search Engine)_](https://www.semanticscholar.org/)
 * [Association for Computational Linguistics](https://aclanthology.org/)
 
