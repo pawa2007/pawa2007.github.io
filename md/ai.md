@@ -1,6 +1,15 @@
 # Artificial Intelligence (AI)
 Notes along the AI journey
 
+## Responsible AI
+* [NIST Trustworthy & Responsible AI Resource Center](https://airc.nist.gov/home)
+* [Meta Responsible Use Guide](https://llama.meta.com/responsible-use-guide/)
+* [IBM](https://www.ibm.com/topics/responsible-ai)
+* [Microsoft](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2)
+* [OpenAI](https://openai.com/safety/)
+* [Anthropic](https://www.anthropic.com/news/core-views-on-ai-safety)
+* [Google](https://ai.google/responsibility/responsible-ai-practices/)
+
 ## Prompt Engineering Roadmap
 * [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
 
