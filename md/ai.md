@@ -9,6 +9,7 @@ Notes along the AI journey
 * [OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
 * [Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 * [Learn Prompting](https://learnprompting.org/docs/introduction)
+* [Meta _(Llama)_](https://llama.meta.com/docs/how-to-guides/prompting/)
 * [Google Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design)
 * [GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
 * [Brex](https://github.com/brexhq/prompt-engineering)
