@@ -9,6 +9,7 @@ Notes along the AI journey
 * [OpenAI](https://openai.com/safety/)
 * [Anthropic](https://www.anthropic.com/news/core-views-on-ai-safety)
 * [Google](https://ai.google/responsibility/responsible-ai-practices/)
+* [Google Data Cards Playbook](https://sites.research.google/datacardsplaybook/)
 
 ## Prompt Engineering Roadmap
 * [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
