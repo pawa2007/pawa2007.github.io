@@ -86,4 +86,4 @@
   * [The Complete Works of Swami Vivekananda](https://ramakrishnavivekananda.info/vivekananda/complete_works.htm) [[Archive.org (slow)](https://archive.org/details/complete-works-of-swami-vivekananda-all-volumes-swami-vivekananda/mode/2up?view=theater)]
   * [Books and Writings of Dr. Babasaheb Ambedkar](https://www.mea.gov.in/books-writings-of-ambedkar.htm)
   * [Selected Works of Jawaharlal Nehru](https://nehruselectedworks.com/)
-  * [Poor Richard's Almanack](https://archive.org/details/poorrichardsalma00franrich/mode/2up?view=theater)
+  * [Poor Richard's Almanack _(Benjamin Franklin)_](https://archive.org/details/poorrichardsalma00franrich/mode/2up?view=theater)
