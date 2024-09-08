@@ -29,6 +29,7 @@ Notes along the AI journey
 * [How to get Codex to produce the code you want! _(Microsoft)_](https://microsoft.github.io/prompt-engineering/)
 * [AI21 _(Jamba)_](https://docs.ai21.com/docs/prompt-engineering)
 * [Mistral](https://docs.mistral.ai/guides/prompting_capabilities/)
+* [AWS](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-engineering-guidelines.html)
 
 ## Best Practices
 * [Best practices for prompt engineering with the OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
