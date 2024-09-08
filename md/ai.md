@@ -17,15 +17,18 @@ Notes along the AI journey
 ## Prompt Engineering Guides
 * [DAIR.AI](https://www.promptingguide.ai/)
 * [OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
-* [Anthropic](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
+* [Anthropic _(Claude)_](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview)
 * [Learn Prompting](https://learnprompting.org/docs/introduction)
 * [Meta _(Llama)_](https://llama.meta.com/docs/how-to-guides/prompting/)
 * [Google Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/prompts/introduction-prompt-design)
 * [GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/prompt-engineering-for-github-copilot)
 * [Brex](https://github.com/brexhq/prompt-engineering)
 * [Cohere Docs](https://docs.cohere.com/docs/crafting-effective-prompts)
-* [Claude Prompt Engineering Guide](https://cheatsheet.md/claude/claude-prompt-engineering)
+* [How to train your pet LLM _(Cohere)_](https://cohere.com/blog/how-to-train-your-pet-llm-prompt-engineering)
+* [Claude Prompt Engineering Guide _(cheatsheet.md)_](https://cheatsheet.md/claude/claude-prompt-engineering)
 * [How to get Codex to produce the code you want! _(Microsoft)_](https://microsoft.github.io/prompt-engineering/)
+* [AI21 _(Jamba)_](https://docs.ai21.com/docs/prompt-engineering)
+* [Mistral](https://docs.mistral.ai/guides/prompting_capabilities/)
 
 ## Best Practices
 * [Best practices for prompt engineering with the OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
