@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_cayman
 ---
 
 #### Are you looking to maximize the value of your Odoo implementation without extensive customization? Let’s connect! [✉](mailto:pawa2007@outlook.com?subject=GitHub.io%20Profile)
