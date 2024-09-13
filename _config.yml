@@ -2,5 +2,6 @@ title: Paresh Wagh
 email: pawa2007@outlook.com
 logo: https://avatars.githubusercontent.com/u/21964536?v=4
 description: Odoo Setup and Customization Expert
-#theme: jekyll-theme-architect
-remote_theme: mmistakes/minimal-mistakes
+# theme: jekyll-theme-architect
+# remote_theme: mmistakes/minimal-mistakes
+remote_theme: cotes2020/jekyll-theme-chirpy
