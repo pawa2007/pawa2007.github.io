@@ -1,8 +1,9 @@
 # Odoo
 Notes along the Odoo journey
 
-## Contributions
-* [My contributions to Odoo](https://github.com/odoo/odoo/pulls?q=is%3Apr+is%3Aclosed+author%3Apawa2007)
+## Contributions and Compilations
+* [My contributions to the Odoo codebase](https://github.com/odoo/odoo/pulls?q=is%3Apr+is%3Aclosed+author%3Apawa2007)
+* [My YouTube Channel - All Things Odoo](https://www.youtube.com/@allthingsodoo)
 
 ## eLearning
 * [eLearning Courses](https://www.odoo.com/slides/all)
@@ -31,9 +32,6 @@ Notes along the Odoo journey
 * [Customization/Development Tutorial](https://www.odoo.com/documentation/14.0/developer/howtos/rdtraining.html)
 * [Odoo Tips and Tricks _(Chris Tringham)_](https://odootricks.tips)
 * [Odoo Tutorials _(Yenthe Van Ginneken)_](https://www.odoo.yenthevg.com)
-
-## Videos
-* [My YouTube Channel - All Things Odoo](https://www.youtube.com/@allthingsodoo)
 
 ## Help and Support
 * [Community Forum](https://www.odoo.com/forum/help-1)
