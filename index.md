@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Are you looking to maximize the value of your Odoo implementation without extensive customization? Let’s connect! [✉](mailto:pawa2007@outlook.com?subject=GitHub.io%20Profile)
+### Are you looking to maximize the value of your Odoo implementation without extensive customization? Let’s connect! [✉](mailto:pawa2007@outlook.com?subject=GitHub.io%20Profile)
 I specialize in helping businesses achieve the best results from their Odoo systems, ensuring you get the most bang for your buck. Together, we can streamline your processes and enhance your efficiency. Reach out today! [✉](mailto:pawa2007@outlook.com?subject=GitHub.io%20Profile)
 
 ## PROFILE
