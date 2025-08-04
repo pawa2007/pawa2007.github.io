@@ -1,0 +1,88 @@
+site_name: Paresh Wagh
+site_description: Odoo Configuration and Customization Expert
+site_author: Paresh Wagh
+site_url: https://pawa2007.github.io
+
+# Repository
+repo_name: pawa2007/pawa2007.github.io
+repo_url: https://github.com/pawa2007/pawa2007.github.io
+
+# Configuration
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+
+  icon:
+    repo: fontawesome/brands/github
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - tables
+
+# Navigation
+nav:
+  - Home: index.md
+  - Continuous Learning:
+    - Odoo: odoo.md
+    - Python & Data Science: python.md
+    - JavaScript & TypeScript: javascript.md
+    - Artificial Intelligence: ai.md
+    - ESR: ESR.md
+    - Books: books.md
+  - About: about.md
+
+# Plugins
+plugins:
+  - search
+
+# Extra
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/pawa2007
+    - icon: fontawesome/solid/envelope
+      link: mailto:pawa2007@outlook.com
+
+copyright: Copyright &copy; 2025 Paresh Wagh
