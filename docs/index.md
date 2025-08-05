@@ -1,9 +1,13 @@
 # Paresh Wagh
 
 !!! tip "Looking to maximize your Odoo implementation?"
-    Are you looking to maximize the value of your Odoo implementation without extensive customization? Let's connect! [:material-email:](mailto:pawa2007@outlook.com?subject=GitHub.io%20Profile)
+    Are you looking to maximize the value of your Odoo implementation without extensive customization?
     
-    I specialize in helping businesses achieve the best results from their Odoo systems, ensuring you get the most bang for your buck. Together, we can streamline your processes and enhance your efficiency. Reach out today! [:material-email:](mailto:pawa2007@outlook.com?subject=GitHub.io%20Profile)
+    Let's connect! [:material-email:](mailto:pawa2007@outlook.com?subject=GitHub.io%20Profile)
+    
+    I specialize in helping businesses achieve the best results from their Odoo systems, ensuring you get the most bang for your buck. Together, we can streamline your processes and enhance your efficiency.
+    
+    Reach out today! [:material-email:](mailto:pawa2007@outlook.com?subject=GitHub.io%20Profile)
 
 ## Profile
 
@@ -18,60 +22,44 @@
 - Industry experience spans Financial Services, Manufacturing, Food Processing, Pharmaceuticals, Higher Education, Healthcare, Entertainment and Retail
 
 ## Odoo Functional Expertise
-
-<div class="grid cards" markdown>
-
-- :material-calculator: **Accounting**
-- :material-account-group: **CRM**
-- :material-cart: **Sales**
-- :material-storefront: **eCommerce**
-- :material-web: **Website**
-- :material-file-document: **Invoicing**
-- :material-package-variant-closed: **Inventory**
-- :material-shopping: **Purchase**
-- :material-factory: **Manufacturing**
-- :material-folder-account: **Projects**
-- :material-clock-time-eight: **Timesheet**
-- :material-point-of-sale: **Point of Sale**
-- :material-car: **Rental**
-- :material-receipt: **Expenses**
-- :material-account-multiple: **Employees**
-- :material-clock-check: **Attendance**
-- :material-clipboard-list: **Surveys**
-- :material-cash: **Payroll**
-- :material-email-multiple: **Email Marketing**
-- :material-broom: **Data Cleaning**
-- :material-view-dashboard: **Dashboards**
-- :material-file-multiple: **Documents**
-- :material-draw-pen: **Sign**
-- :material-table: **Spreadsheets**
-- :material-account-search: **Recruiting**
-- :material-calendar-clock: **Planning**
-
-</div>
+![Accounting](https://badgen.net/static/Odoo/Accounting/purple?scale=1.25)
+![CRM](https://badgen.net/static/Odoo/CRM/purple?scale=1.25)
+![Sales](https://badgen.net/static/Odoo/Sales/purple?scale=1.25)
+![eCommerce](https://badgen.net/static/Odoo/eCommerce/purple?scale=1.25)
+![Website](https://badgen.net/static/Odoo/Website/purple?scale=1.25)
+![Invoicing](https://badgen.net/static/Odoo/Invoicing/purple?scale=1.25)
+![Inventory](https://badgen.net/static/Odoo/Inventory/purple?scale=1.25)
+![Purchase](https://badgen.net/static/Odoo/Purchase/purple?scale=1.25)
+![Manufacturing](https://badgen.net/static/Odoo/Manufacturing/purple?scale=1.25)
+![Projects](https://badgen.net/static/Odoo/Projects/purple?scale=1.25)
+![Timesheet](https://badgen.net/static/Odoo/Timesheet/purple?scale=1.25)
+![Point of Sale](https://badgen.net/static/Odoo/Point%20of%20Sale/purple?scale=1.25)
+![Rental](https://badgen.net/static/Odoo/Rental/purple?scale=1.25)
+![Expenses](https://badgen.net/static/Odoo/Expenses/purple?scale=1.25)
+![Employees](https://badgen.net/static/Odoo/Employees/purple?scale=1.25)
+![Attendance](https://badgen.net/static/Odoo/Attendance/purple?scale=1.25)
+![Surveys](https://badgen.net/static/Odoo/Surveys/purple?scale=1.25)
+![Payroll](https://badgen.net/static/Odoo/Payroll/purple?scale=1.25)
+![Email Marketing](https://badgen.net/static/Odoo/Email%20Marketing/purple?scale=1.25)
+![Data Cleaning](https://badgen.net/static/Odoo/Data%20Cleaning/purple?scale=1.25)
+![Dashboards](https://badgen.net/static/Odoo/Dashboards/purple?scale=1.25)
+![Documents](https://badgen.net/static/Odoo/Documents/purple?scale=1.25)
+![Sign](https://badgen.net/static/Odoo/Sign/purple?scale=1.25)
+![Spreadsheets](https://badgen.net/static/Odoo/Spreadsheets/purple?scale=1.25)
+![Recruiting](https://badgen.net/static/Odoo/Recruiting/purple?scale=1.25)
+![Planning](https://badgen.net/static/Odoo/Planning/purple?scale=1.25)
 
 ## Odoo Technical Expertise
-
-<div class="grid cards" markdown>
-
-- :material-cog: **Configuration**
-- :material-tools: **Customization**
-- :material-palette: **Studio**
-- :material-cloud: **SAAS**
-- :material-keyboard: **Custom Module Development**
-  
-    XML, Python, JavaScript, HTML, CSS, SCSS
-    
-- :material-rocket-launch: **Deployment**
-- :material-school: **Training**
-- :material-account-supervisor: **Production Support and Maintenance**
-- :material-server: **Server Setup**
-  
-    Cloud / On-Premise / Odoo.sh
-    
-- :material-download: **Software Installation**
-
-</div>
+![Configuration](https://badgen.net/static/Odoo/Configuration/grey?scale=1.25)
+![Customization](https://badgen.net/static/Odoo/Customization/grey?scale=1.25)
+![Studio](https://badgen.net/static/Odoo/Studio/grey?scale=1.25)
+![SAAS](https://badgen.net/static/Odoo/Online/grey?scale=1.25)
+![Custom Module Development (XML, Python, JavaScript, HTML, CSS, SCSS)](https://badgen.net/static/Odoo/Development%20(XML,%20Python,%20JavaScript,%20HTML,%20CSS,%20SCSS)/grey?scale=1.25)
+![Deployment](https://badgen.net/static/Odoo/Deployment/grey?scale=1.25)
+![Training](https://badgen.net/static/Odoo/Training/grey?scale=1.25)
+![Production Support and Maintenance](https://badgen.net/static/Odoo/Production%20Support%20and%20Maintenance/grey?scale=1.25)
+![Server Setup (Cloud / On-Premise / Odoo.sh)](https://badgen.net/static/Odoo/Server%20Setup%20(Cloud%20%2F%20On-Premise%20%2F%20Odoo.sh)/grey?scale=1.25)
+![Software Installation](https://badgen.net/static/Odoo/Software%20Installation/grey?scale=1.25)
 
 ## My Continuous Learning Journey
 

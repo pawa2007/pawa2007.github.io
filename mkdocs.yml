@@ -43,6 +43,10 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+  logo: images/photo.png
+
+  favicon: images/logo.png
+
 # Extensions
 markdown_extensions:
   - admonition
@@ -84,5 +88,8 @@ extra:
       link: https://github.com/pawa2007
     - icon: fontawesome/solid/envelope
       link: mailto:pawa2007@outlook.com
+
+extra_css:
+  - assets/extra.css
 
 copyright: Copyright &copy; 2025 Paresh Wagh
