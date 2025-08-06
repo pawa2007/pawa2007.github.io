@@ -1,0 +1,1554 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Odoo Configuration and Customization Expert">
+      
+      
+        <meta name="author" content="Paresh Wagh">
+      
+      
+        <link rel="canonical" href="https://pawa2007.github.io/javascript.html">
+      
+      
+        <link rel="prev" href="python.html">
+      
+      
+        <link rel="next" href="ai.html">
+      
+      
+      <link rel="icon" href="images/logo.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.16">
+    
+    
+      
+        <title>JavaScript & TypeScript - Paresh Wagh</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+        <script src="https://unpkg.com/iframe-worker/shim"></script>
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="assets/extra.css">
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="deep-purple">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#javascript-typescript" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="index.html" title="Paresh Wagh" class="md-header__button md-logo" aria-label="Paresh Wagh" data-md-component="logo">
+      
+  <img src="images/photo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Paresh Wagh
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              JavaScript & TypeScript
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="deep-purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="deep-purple"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12s-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/pawa2007/pawa2007.github.io" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    pawa2007/pawa2007.github.io
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="index.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="odoo.html" class="md-tabs__link">
+          
+  
+  
+  Continuous Learning
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="about.html" class="md-tabs__link">
+        
+  
+  
+    
+  
+  About
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="index.html" title="Paresh Wagh" class="md-nav__button md-logo" aria-label="Paresh Wagh" data-md-component="logo">
+      
+  <img src="images/photo.png" alt="logo">
+
+    </a>
+    Paresh Wagh
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/pawa2007/pawa2007.github.io" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    pawa2007/pawa2007.github.io
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="index.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+        
+        
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Continuous Learning
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Continuous Learning
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="odoo.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Odoo
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="python.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Python & Data Science
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    JavaScript & TypeScript
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="javascript.html" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    JavaScript & TypeScript
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#standards-and-specifications" class="md-nav__link">
+    <span class="md-ellipsis">
+      Standards and Specifications
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Standards and Specifications">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#standards-bodies" class="md-nav__link">
+    <span class="md-ellipsis">
+      Standards Bodies
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#html" class="md-nav__link">
+    <span class="md-ellipsis">
+      HTML
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#css" class="md-nav__link">
+    <span class="md-ellipsis">
+      CSS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#javascript-ecmascript" class="md-nav__link">
+    <span class="md-ellipsis">
+      JavaScript / ECMAScript
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#documentation-and-reference" class="md-nav__link">
+    <span class="md-ellipsis">
+      Documentation and Reference
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Documentation and Reference">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#development-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Development Resources
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#testing" class="md-nav__link">
+    <span class="md-ellipsis">
+      Testing
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#key-concepts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Key Concepts
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Key Concepts">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#core-language-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Core Language Features
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#functions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Functions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#asynchronous-programming" class="md-nav__link">
+    <span class="md-ellipsis">
+      Asynchronous Programming
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#module-systems" class="md-nav__link">
+    <span class="md-ellipsis">
+      Module Systems
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#build-tools-transpilers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Build Tools &amp; Transpilers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Build Tools &amp; Transpilers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bundlers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bundlers
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#task-runners" class="md-nav__link">
+    <span class="md-ellipsis">
+      Task Runners
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#transpilers-compilers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Transpilers / Compilers
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#frameworks-libraries" class="md-nav__link">
+    <span class="md-ellipsis">
+      Frameworks &amp; Libraries
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Frameworks &amp; Libraries">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ui-frameworks" class="md-nav__link">
+    <span class="md-ellipsis">
+      UI Frameworks
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mobile-development" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mobile Development
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#testing-frameworks" class="md-nav__link">
+    <span class="md-ellipsis">
+      Testing Frameworks
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#data-visualization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Data Visualization
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#online-playgrounds" class="md-nav__link">
+    <span class="md-ellipsis">
+      Online Playgrounds
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Online Playgrounds">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#general-purpose" class="md-nav__link">
+    <span class="md-ellipsis">
+      General Purpose
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mobile-development_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mobile Development
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#coding-standards" class="md-nav__link">
+    <span class="md-ellipsis">
+      Coding Standards
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Coding Standards">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#style-guides" class="md-nav__link">
+    <span class="md-ellipsis">
+      Style Guides
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#design-systems" class="md-nav__link">
+    <span class="md-ellipsis">
+      Design Systems
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tools-ides" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tools &amp; IDEs
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Tools &amp; IDEs">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#editors" class="md-nav__link">
+    <span class="md-ellipsis">
+      Editors
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#version-control" class="md-nav__link">
+    <span class="md-ellipsis">
+      Version Control
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#influential-people" class="md-nav__link">
+    <span class="md-ellipsis">
+      Influential People
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#books" class="md-nav__link">
+    <span class="md-ellipsis">
+      Books
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="ai.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Artificial Intelligence
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="ESR.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    ESR
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="books.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Books
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="about.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    About
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#standards-and-specifications" class="md-nav__link">
+    <span class="md-ellipsis">
+      Standards and Specifications
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Standards and Specifications">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#standards-bodies" class="md-nav__link">
+    <span class="md-ellipsis">
+      Standards Bodies
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#html" class="md-nav__link">
+    <span class="md-ellipsis">
+      HTML
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#css" class="md-nav__link">
+    <span class="md-ellipsis">
+      CSS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#javascript-ecmascript" class="md-nav__link">
+    <span class="md-ellipsis">
+      JavaScript / ECMAScript
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#documentation-and-reference" class="md-nav__link">
+    <span class="md-ellipsis">
+      Documentation and Reference
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Documentation and Reference">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#development-resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      Development Resources
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#testing" class="md-nav__link">
+    <span class="md-ellipsis">
+      Testing
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#key-concepts" class="md-nav__link">
+    <span class="md-ellipsis">
+      Key Concepts
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Key Concepts">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#core-language-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Core Language Features
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#functions" class="md-nav__link">
+    <span class="md-ellipsis">
+      Functions
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#asynchronous-programming" class="md-nav__link">
+    <span class="md-ellipsis">
+      Asynchronous Programming
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#module-systems" class="md-nav__link">
+    <span class="md-ellipsis">
+      Module Systems
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#build-tools-transpilers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Build Tools &amp; Transpilers
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Build Tools &amp; Transpilers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#bundlers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bundlers
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#task-runners" class="md-nav__link">
+    <span class="md-ellipsis">
+      Task Runners
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#transpilers-compilers" class="md-nav__link">
+    <span class="md-ellipsis">
+      Transpilers / Compilers
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#frameworks-libraries" class="md-nav__link">
+    <span class="md-ellipsis">
+      Frameworks &amp; Libraries
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Frameworks &amp; Libraries">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ui-frameworks" class="md-nav__link">
+    <span class="md-ellipsis">
+      UI Frameworks
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mobile-development" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mobile Development
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#testing-frameworks" class="md-nav__link">
+    <span class="md-ellipsis">
+      Testing Frameworks
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#data-visualization" class="md-nav__link">
+    <span class="md-ellipsis">
+      Data Visualization
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#online-playgrounds" class="md-nav__link">
+    <span class="md-ellipsis">
+      Online Playgrounds
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Online Playgrounds">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#general-purpose" class="md-nav__link">
+    <span class="md-ellipsis">
+      General Purpose
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mobile-development_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mobile Development
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#coding-standards" class="md-nav__link">
+    <span class="md-ellipsis">
+      Coding Standards
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Coding Standards">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#style-guides" class="md-nav__link">
+    <span class="md-ellipsis">
+      Style Guides
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#design-systems" class="md-nav__link">
+    <span class="md-ellipsis">
+      Design Systems
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tools-ides" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tools &amp; IDEs
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Tools &amp; IDEs">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#editors" class="md-nav__link">
+    <span class="md-ellipsis">
+      Editors
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#version-control" class="md-nav__link">
+    <span class="md-ellipsis">
+      Version Control
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#influential-people" class="md-nav__link">
+    <span class="md-ellipsis">
+      Influential People
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#books" class="md-nav__link">
+    <span class="md-ellipsis">
+      Books
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="javascript-typescript">JavaScript &amp; TypeScript</h1>
+<p>Notes along the JavaScript, ECMAScript, TypeScript journey</p>
+<h2 id="standards-and-specifications">Standards and Specifications</h2>
+<h3 id="standards-bodies">Standards Bodies</h3>
+<ul>
+<li><a href="https://www.w3.org/TR/">w3c Standards</a></li>
+<li><a href="https://whatwg.org/">WHATWG Living Standards</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources">ECMAScript Standards</a></li>
+<li><a href="https://www.ietf.org/standards/">IETF (Internet Engineering Task Force) Standards</a></li>
+</ul>
+<h3 id="html">HTML</h3>
+<ul>
+<li><a href="https://html.spec.whatwg.org">HTML Living Standard <em>(WHATWG)</em></a></li>
+<li><a href="https://www.w3.org/TR/html/">Latest HTML Standard <em>(w3c)</em></a></li>
+</ul>
+<h3 id="css">CSS</h3>
+<ul>
+<li><a href="https://www.w3.org/standards/techs/css">CSS Standards <em>(w3c)</em></a></li>
+<li><a href="https://www.w3.org/TR/CSS/#css">CSS - The Official Definition <em>(w3c)</em></a></li>
+</ul>
+<h3 id="javascript-ecmascript">JavaScript / ECMAScript</h3>
+<ul>
+<li><a href="https://www.ecma-international.org/ecma-262/5.1/">ECMAScript 5.1 Language Specification (June 2011)</a></li>
+<li><a href="http://bguiz.github.io/js-standards">ECMAScript 5.1 and ECMAScript 6</a></li>
+</ul>
+<h2 id="documentation-and-reference">Documentation and Reference</h2>
+<h3 id="development-resources">Development Resources</h3>
+<ul>
+<li><a href="https://nodejs.org/en/docs/">node Documentation</a></li>
+<li><a href="https://docs.npmjs.com/">npm Documentation</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Mozilla Developer Network</a></li>
+<li><a href="https://developers.google.com/web/">Google Developers</a></li>
+<li><a href="https://javascript.info/">The Modern JavaScript Tutorial</a></li>
+<li><a href="https://devdocs.io/">devdocs.io <em>(Collection of all API documentation)</em></a></li>
+</ul>
+<h3 id="testing">Testing</h3>
+<ul>
+<li><a href="http://agiledata.org/essays/tdd.html">Introduction to Test Driven Development (TDD)</a></li>
+<li><a href="https://github.com/dwyl/learn-tdd">Learn TDD (Test Driven Development)</a></li>
+<li><a href="https://www.agilealliance.org/glossary/bdd">Behavior Driven Development (BDD)</a></li>
+</ul>
+<h2 id="key-concepts">Key Concepts</h2>
+<h3 id="core-language-features">Core Language Features</h3>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this"><code>this</code></a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode">Strict mode</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals">Template Strings/Literals</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment">Destructuring Assignment</a></li>
+</ul>
+<h3 id="functions">Functions</h3>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Glossary/IIFE">IIFE <em>(Immediately Invoked Function Expression)</em></a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions">Arrow Functions</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters">Default parameter values</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters">Rest Parameters/Use of Spread Operator</a></li>
+</ul>
+<h3 id="asynchronous-programming">Asynchronous Programming</h3>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function"><code>async</code> function</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await"><code>await</code> operator</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest">XMLHttpRequest</a></li>
+</ul>
+<h3 id="module-systems">Module Systems</h3>
+<ul>
+<li><a href="http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html">JavaScript Module Pattern: In-Depth <em>(Ben Cherry)</em></a></li>
+<li><a href="http://www.commonjs.org/">CommonJS</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export"><code>export</code>/<code>import</code> statements</a></li>
+<li><a href="https://requirejs.org/">RequireJS (AMD)</a></li>
+</ul>
+<h2 id="build-tools-transpilers">Build Tools &amp; Transpilers</h2>
+<h3 id="bundlers">Bundlers</h3>
+<ul>
+<li><a href="https://webpack.js.org/">webpack</a></li>
+<li><a href="https://parceljs.org/">Parcel</a></li>
+<li><a href="https://rollupjs.org/guide/en">rollup.js</a></li>
+<li><a href="http://browserify.org/">browserify</a></li>
+</ul>
+<h3 id="task-runners">Task Runners</h3>
+<ul>
+<li><a href="https://gruntjs.com/">Grunt</a></li>
+<li><a href="https://gulpjs.com/">Gulp</a></li>
+</ul>
+<h3 id="transpilers-compilers">Transpilers / Compilers</h3>
+<ul>
+<li><a href="https://babeljs.io/">Babel</a></li>
+<li><a href="http://www.typescriptlang.org/">TypeScript <em>(Microsoft)</em></a></li>
+<li><a href="https://flow.org">Flow <em>(Facebook)</em></a></li>
+</ul>
+<h2 id="frameworks-libraries">Frameworks &amp; Libraries</h2>
+<h3 id="ui-frameworks">UI Frameworks</h3>
+<ul>
+<li><a href="https://reactjs.org/">ReactJS <em>(Facebook)</em></a></li>
+<li><a href="https://angular.io/">Angular <em>(Google)</em></a></li>
+<li><a href="https://vuejs.org/">Vue.js</a></li>
+<li><a href="https://jquery.org/">jQuery</a></li>
+<li><a href="https://www.emberjs.com/">Ember.js</a></li>
+</ul>
+<h3 id="mobile-development">Mobile Development</h3>
+<ul>
+<li><a href="https://facebook.github.io/react-native/">React Native <em>(Facebook)</em></a></li>
+<li><a href="https://www.nativescript.org/">NativeScript <em>(Progress Software/Telerik)</em></a></li>
+<li><a href="https://flutter.io">Flutter <em>(Google)</em></a></li>
+</ul>
+<h3 id="testing-frameworks">Testing Frameworks</h3>
+<ul>
+<li><a href="https://jestjs.io/">Jest <em>(Facebook)</em></a></li>
+<li><a href="https://mochajs.org/">Mocha</a></li>
+<li><a href="https://jasmine.github.io/">Jasmine</a></li>
+<li><a href="https://qunitjs.com/">QUnit <em>(jQuery)</em></a></li>
+<li><a href="https://www.seleniumhq.org/">Selenium</a></li>
+</ul>
+<h3 id="data-visualization">Data Visualization</h3>
+<ul>
+<li><a href="https://d3js.org/">d3js</a></li>
+<li><a href="https://threejs.org/">threejs</a></li>
+</ul>
+<h2 id="online-playgrounds">Online Playgrounds</h2>
+<h3 id="general-purpose">General Purpose</h3>
+<ul>
+<li><a href="https://codepen.io/">CodePen</a></li>
+<li><a href="https://jsfiddle.net/">jsFiddle</a></li>
+<li><a href="https://codesandbox.io/">CodeSandbox</a></li>
+<li><a href="https://repl.it/languages">repl.it</a></li>
+</ul>
+<h3 id="mobile-development_1">Mobile Development</h3>
+<ul>
+<li><a href="https://snack.expo.io/">Snack <em>(expo.io)</em></a></li>
+<li><a href="https://play.nativescript.org/">NativeScript Playground</a></li>
+</ul>
+<h2 id="coding-standards">Coding Standards</h2>
+<h3 id="style-guides">Style Guides</h3>
+<ul>
+<li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide</a></li>
+<li><a href="https://google.github.io/styleguide/">Google Style Guides</a></li>
+<li><a href="https://github.com/standard/standard">Standard JS</a></li>
+<li><a href="https://contribute.jquery.org/style-guide/js/">jQuery JavaScript Style Guide</a></li>
+</ul>
+<h3 id="design-systems">Design Systems</h3>
+<ul>
+<li><a href="https://material.io/">Google Material Design</a></li>
+<li><a href="https://www.microsoft.com/design/">Microsoft Design</a></li>
+<li><a href="https://developer.apple.com/design/human-interface-guidelines/">Apple Human Interface Guidelines</a></li>
+</ul>
+<h2 id="tools-ides">Tools &amp; IDEs</h2>
+<h3 id="editors">Editors</h3>
+<ul>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code <em>(Microsoft)</em></a></li>
+<li><a href="https://atom.io/">Atom <em>(Github)</em></a></li>
+</ul>
+<h3 id="version-control">Version Control</h3>
+<ul>
+<li><a href="https://desktop.github.com/">Github Desktop</a></li>
+</ul>
+<h2 id="influential-people">Influential People</h2>
+<ul>
+<li><a href="https://brendaneich.com/">Brendan Eich <em>(JavaScript Creator)</em></a></li>
+<li><a href="https://johnresig.com/">John Resig <em>(jQuery)</em></a></li>
+<li><a href="http://tinyclouds.org/">Ryan Dahl <em>(NodeJS)</em></a></li>
+<li><a href="https://addyosmani.com">Addy Osmani</a></li>
+<li><a href="https://github.com/getify">Kyle Simpson</a></li>
+<li><a href="https://humanwhocodes.com/">Nicholas Zakas</a></li>
+</ul>
+<h2 id="books">Books</h2>
+<p>See <a href="books.html#javascript">JavaScript books</a> section for recommended reading.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2025 Paresh Wagh
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/pawa2007" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M173.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M252.8 8C114.1 8 8 113.3 8 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C436.2 457.8 504 362.9 504 252 504 113.3 391.5 8 252.8 8M105.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:pawa2007@outlook.com" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4l208 156a48 48 0 0 0 57.6 0l208-156c12.1-9.1 19.2-23.3 19.2-38.4 0-26.5-21.5-48-48-48zM0 196v188c0 35.3 28.7 64 64 64h384c35.3 0 64-28.7 64-64V196L313.6 344.8c-34.1 25.6-81.1 25.6-115.2 0z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": ".", "features": ["navigation.tabs", "navigation.sections", "navigation.expand", "navigation.path", "navigation.top", "search.highlight", "search.share", "content.code.copy", "content.code.annotate"], "search": "assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="assets/javascripts/bundle.50899def.min.js"></script>
+      
+    
+  </body>
+</html>
