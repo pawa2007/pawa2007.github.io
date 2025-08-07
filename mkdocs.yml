@@ -75,7 +75,7 @@ nav:
     - Artificial Intelligence: ai.md
     - ESR: ESR.md
     - Books: books.md
-  - About: about.md
+  # - About: about.md
 
 # Plugins
 plugins:
