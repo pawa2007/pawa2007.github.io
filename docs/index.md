@@ -61,6 +61,10 @@
 ![Server Setup (Cloud / On-Premise / Odoo.sh)](https://badgen.net/static/Odoo/Server%20Setup%20(Cloud%20%2F%20On-Premise%20%2F%20Odoo.sh)/grey?scale=1.25)
 ![Software Installation](https://badgen.net/static/Odoo/Software%20Installation/grey?scale=1.25)
 
+## My YouTube Channel and Podcast
+- [All Things Odoo YouTube Channel](https://www.youtube.com/@AllThingsOdoo)
+- [All Things Odoo Podcast](https://redcircle.com/shows/b55f2a23-416d-47fc-8285-cc736128843d)
+
 ## My Continuous Learning Journey
 
 Explore my ongoing learning journey across various technologies:
